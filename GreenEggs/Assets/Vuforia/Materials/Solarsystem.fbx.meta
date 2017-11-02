@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 682be5bdddb65414895ce0faa3d46ba1
+timeCreated: 1508351016
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera_Target_1
+    100002: Cinema4D_Editor
+    100004: Disc
+    100006: Earth
+    100008: Earth_2
+    100010: Jupiter
+    100012: Jupiter_2
+    100014: Lensflare_Source
+    100016: Mars
+    100018: Mars_2
+    100020: Merc_Orbit
+    100022: Mercury
+    100024: Moon
+    100026: Moon_Light
+    100028: Neptune
+    100030: Neptune_2
+    100032: Physical_Sky
+    100034: Pluto
+    100036: Pluto_2
+    100038: Saturn
+    100040: Saturn_2
+    100042: Shadow_Plane
+    100044: Sky_Dome
+    100046: Sky_Null
+    100048: //RootNode
+    100050: Sphere
+    100052: Sun
+    100054: Sun_2
+    100056: Sun_light
+    100058: Uranus
+    100060: Uranus_2
+    100062: Venus
+    100064: Venus_2
+    400000: Camera_Target_1
+    400002: Cinema4D_Editor
+    400004: Disc
+    400006: Earth
+    400008: Earth_2
+    400010: Jupiter
+    400012: Jupiter_2
+    400014: Lensflare_Source
+    400016: Mars
+    400018: Mars_2
+    400020: Merc_Orbit
+    400022: Mercury
+    400024: Moon
+    400026: Moon_Light
+    400028: Neptune
+    400030: Neptune_2
+    400032: Physical_Sky
+    400034: Pluto
+    400036: Pluto_2
+    400038: Saturn
+    400040: Saturn_2
+    400042: Shadow_Plane
+    400044: Sky_Dome
+    400046: Sky_Null
+    400048: //RootNode
+    400050: Sphere
+    400052: Sun
+    400054: Sun_2
+    400056: Sun_light
+    400058: Uranus
+    400060: Uranus_2
+    400062: Venus
+    400064: Venus_2
+    2300000: Disc
+    2300002: Earth_2
+    2300004: Jupiter_2
+    2300006: Mars_2
+    2300008: Mercury
+    2300010: Neptune_2
+    2300012: Pluto_2
+    2300014: Sphere
+    2300016: Sun_2
+    2300018: Uranus_2
+    2300020: Venus_2
+    3300000: Disc
+    3300002: Earth_2
+    3300004: Jupiter_2
+    3300006: Mars_2
+    3300008: Mercury
+    3300010: Neptune_2
+    3300012: Pluto_2
+    3300014: Sphere
+    3300016: Sun_2
+    3300018: Uranus_2
+    3300020: Venus_2
+    4300000: Sun_2
+    4300002: Pluto_2
+    4300004: Neptune_2
+    4300006: Uranus_2
+    4300008: Sphere
+    4300010: Disc
+    4300012: Jupiter_2
+    4300014: Mars_2
+    4300016: Earth_2
+    4300018: Venus_2
+    4300020: Mercury
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

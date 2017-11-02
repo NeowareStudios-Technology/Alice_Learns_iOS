@@ -1,0 +1,846 @@
+fileFormatVersion: 2
+guid: be053df59491b56459fb0eda74712bef
+timeCreated: 1495902465
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Book_Open_
+    100002: Bushes
+    100004: Cinema4D_Editor
+    100006: Crate
+    100008: Crate_2
+    100010: CrateTree
+    100012: Cube_1
+    100014: Cube_4
+    100016: Cube_5
+    100018: Cube_6
+    100020: Cube_7
+    100022: Cube_7_2
+    100024: Cube_7_3
+    100026: Cylinder
+    100028: Cylinder_1
+    100030: Cylinder_2
+    100032: Dish
+    100034: Egg
+    100036: Egg_1
+    100038: Fork
+    100040: Fox
+    100042: Guy
+    100044: GuyBody
+    100046: GuyHeadStandard
+    100048: GuyShocked
+    100050: Ham
+    100052: Hat
+    100054: mixamorig_Head
+    100056: mixamorig_Head_2
+    100058: mixamorig_HeadTop_End
+    100060: mixamorig_HeadTop_End_2
+    100062: mixamorig_Hips
+    100064: mixamorig_Hips_2
+    100066: mixamorig_LeftArm
+    100068: mixamorig_LeftArm_2
+    100070: mixamorig_LeftFoot
+    100072: mixamorig_LeftFoot_2
+    100074: mixamorig_LeftForeArm
+    100076: mixamorig_LeftForeArm_2
+    100078: mixamorig_LeftHand
+    100080: mixamorig_LeftHand_2
+    100082: mixamorig_LeftHandIndex1
+    100084: mixamorig_LeftHandIndex1_2
+    100086: mixamorig_LeftHandIndex2
+    100088: mixamorig_LeftHandIndex2_2
+    100090: mixamorig_LeftHandIndex3
+    100092: mixamorig_LeftHandIndex3_2
+    100094: mixamorig_LeftHandIndex4
+    100096: mixamorig_LeftHandIndex4_2
+    100098: mixamorig_LeftHandMiddle1
+    100100: mixamorig_LeftHandMiddle1_2
+    100102: mixamorig_LeftHandMiddle2
+    100104: mixamorig_LeftHandMiddle2_2
+    100106: mixamorig_LeftHandMiddle3
+    100108: mixamorig_LeftHandMiddle3_2
+    100110: mixamorig_LeftHandMiddle4
+    100112: mixamorig_LeftHandMiddle4_2
+    100114: mixamorig_LeftHandPinky1
+    100116: mixamorig_LeftHandPinky1_2
+    100118: mixamorig_LeftHandPinky2
+    100120: mixamorig_LeftHandPinky2_2
+    100122: mixamorig_LeftHandPinky3
+    100124: mixamorig_LeftHandPinky3_2
+    100126: mixamorig_LeftHandPinky4
+    100128: mixamorig_LeftHandPinky4_2
+    100130: mixamorig_LeftHandRing1
+    100132: mixamorig_LeftHandRing1_2
+    100134: mixamorig_LeftHandRing2
+    100136: mixamorig_LeftHandRing2_2
+    100138: mixamorig_LeftHandRing3
+    100140: mixamorig_LeftHandRing3_2
+    100142: mixamorig_LeftHandRing4
+    100144: mixamorig_LeftHandRing4_2
+    100146: mixamorig_LeftHandThumb1
+    100148: mixamorig_LeftHandThumb1_2
+    100150: mixamorig_LeftHandThumb2
+    100152: mixamorig_LeftHandThumb2_2
+    100154: mixamorig_LeftHandThumb3
+    100156: mixamorig_LeftHandThumb3_2
+    100158: mixamorig_LeftHandThumb4
+    100160: mixamorig_LeftHandThumb4_2
+    100162: mixamorig_LeftLeg
+    100164: mixamorig_LeftLeg_2
+    100166: mixamorig_LeftShoulder
+    100168: mixamorig_LeftShoulder_2
+    100170: mixamorig_LeftToe_End
+    100172: mixamorig_LeftToe_End_2
+    100174: mixamorig_LeftToeBase
+    100176: mixamorig_LeftToeBase_2
+    100178: mixamorig_LeftUpLeg
+    100180: mixamorig_LeftUpLeg_2
+    100182: mixamorig_Neck
+    100184: mixamorig_Neck_2
+    100186: mixamorig_RightArm
+    100188: mixamorig_RightArm_2
+    100190: mixamorig_RightFoot
+    100192: mixamorig_RightFoot_2
+    100194: mixamorig_RightForeArm
+    100196: mixamorig_RightForeArm_2
+    100198: mixamorig_RightHand
+    100200: mixamorig_RightHand_2
+    100202: mixamorig_RightHandIndex1
+    100204: mixamorig_RightHandIndex1_2
+    100206: mixamorig_RightHandIndex2
+    100208: mixamorig_RightHandIndex2_2
+    100210: mixamorig_RightHandIndex3
+    100212: mixamorig_RightHandIndex3_2
+    100214: mixamorig_RightHandIndex4
+    100216: mixamorig_RightHandIndex4_2
+    100218: mixamorig_RightHandMiddle1
+    100220: mixamorig_RightHandMiddle1_2
+    100222: mixamorig_RightHandMiddle2
+    100224: mixamorig_RightHandMiddle2_2
+    100226: mixamorig_RightHandMiddle3
+    100228: mixamorig_RightHandMiddle3_2
+    100230: mixamorig_RightHandMiddle4
+    100232: mixamorig_RightHandMiddle4_2
+    100234: mixamorig_RightHandPinky1
+    100236: mixamorig_RightHandPinky1_2
+    100238: mixamorig_RightHandPinky2
+    100240: mixamorig_RightHandPinky2_2
+    100242: mixamorig_RightHandPinky3
+    100244: mixamorig_RightHandPinky3_2
+    100246: mixamorig_RightHandPinky4
+    100248: mixamorig_RightHandPinky4_2
+    100250: mixamorig_RightHandRing1
+    100252: mixamorig_RightHandRing1_2
+    100254: mixamorig_RightHandRing2
+    100256: mixamorig_RightHandRing2_2
+    100258: mixamorig_RightHandRing3
+    100260: mixamorig_RightHandRing3_2
+    100262: mixamorig_RightHandRing4
+    100264: mixamorig_RightHandRing4_2
+    100266: mixamorig_RightHandThumb1
+    100268: mixamorig_RightHandThumb1_2
+    100270: mixamorig_RightHandThumb2
+    100272: mixamorig_RightHandThumb2_2
+    100274: mixamorig_RightHandThumb3
+    100276: mixamorig_RightHandThumb3_2
+    100278: mixamorig_RightHandThumb4
+    100280: mixamorig_RightHandThumb4_2
+    100282: mixamorig_RightLeg
+    100284: mixamorig_RightLeg_2
+    100286: mixamorig_RightShoulder
+    100288: mixamorig_RightShoulder_2
+    100290: mixamorig_RightToe_End
+    100292: mixamorig_RightToe_End_2
+    100294: mixamorig_RightToeBase
+    100296: mixamorig_RightToeBase_2
+    100298: mixamorig_RightUpLeg
+    100300: mixamorig_RightUpLeg_2
+    100302: mixamorig_Spine
+    100304: mixamorig_Spine1
+    100306: mixamorig_Spine1_2
+    100308: mixamorig_Spine2
+    100310: mixamorig_Spine2_2
+    100312: mixamorig_Spine_2
+    100314: //RootNode
+    100316: Pg23
+    100318: Plane
+    100320: Platter
+    100322: Sam
+    100324: Sammy
+    100326: Sphere_1
+    100328: Sphere_2
+    100330: Tree
+    400000: Book_Open_
+    400002: Bushes
+    400004: Cinema4D_Editor
+    400006: Crate
+    400008: Crate_2
+    400010: CrateTree
+    400012: Cube_1
+    400014: Cube_4
+    400016: Cube_5
+    400018: Cube_6
+    400020: Cube_7
+    400022: Cube_7_2
+    400024: Cube_7_3
+    400026: Cylinder
+    400028: Cylinder_1
+    400030: Cylinder_2
+    400032: Dish
+    400034: Egg
+    400036: Egg_1
+    400038: Fork
+    400040: Fox
+    400042: Guy
+    400044: GuyBody
+    400046: GuyHeadStandard
+    400048: GuyShocked
+    400050: Ham
+    400052: Hat
+    400054: mixamorig_Head
+    400056: mixamorig_Head_2
+    400058: mixamorig_HeadTop_End
+    400060: mixamorig_HeadTop_End_2
+    400062: mixamorig_Hips
+    400064: mixamorig_Hips_2
+    400066: mixamorig_LeftArm
+    400068: mixamorig_LeftArm_2
+    400070: mixamorig_LeftFoot
+    400072: mixamorig_LeftFoot_2
+    400074: mixamorig_LeftForeArm
+    400076: mixamorig_LeftForeArm_2
+    400078: mixamorig_LeftHand
+    400080: mixamorig_LeftHand_2
+    400082: mixamorig_LeftHandIndex1
+    400084: mixamorig_LeftHandIndex1_2
+    400086: mixamorig_LeftHandIndex2
+    400088: mixamorig_LeftHandIndex2_2
+    400090: mixamorig_LeftHandIndex3
+    400092: mixamorig_LeftHandIndex3_2
+    400094: mixamorig_LeftHandIndex4
+    400096: mixamorig_LeftHandIndex4_2
+    400098: mixamorig_LeftHandMiddle1
+    400100: mixamorig_LeftHandMiddle1_2
+    400102: mixamorig_LeftHandMiddle2
+    400104: mixamorig_LeftHandMiddle2_2
+    400106: mixamorig_LeftHandMiddle3
+    400108: mixamorig_LeftHandMiddle3_2
+    400110: mixamorig_LeftHandMiddle4
+    400112: mixamorig_LeftHandMiddle4_2
+    400114: mixamorig_LeftHandPinky1
+    400116: mixamorig_LeftHandPinky1_2
+    400118: mixamorig_LeftHandPinky2
+    400120: mixamorig_LeftHandPinky2_2
+    400122: mixamorig_LeftHandPinky3
+    400124: mixamorig_LeftHandPinky3_2
+    400126: mixamorig_LeftHandPinky4
+    400128: mixamorig_LeftHandPinky4_2
+    400130: mixamorig_LeftHandRing1
+    400132: mixamorig_LeftHandRing1_2
+    400134: mixamorig_LeftHandRing2
+    400136: mixamorig_LeftHandRing2_2
+    400138: mixamorig_LeftHandRing3
+    400140: mixamorig_LeftHandRing3_2
+    400142: mixamorig_LeftHandRing4
+    400144: mixamorig_LeftHandRing4_2
+    400146: mixamorig_LeftHandThumb1
+    400148: mixamorig_LeftHandThumb1_2
+    400150: mixamorig_LeftHandThumb2
+    400152: mixamorig_LeftHandThumb2_2
+    400154: mixamorig_LeftHandThumb3
+    400156: mixamorig_LeftHandThumb3_2
+    400158: mixamorig_LeftHandThumb4
+    400160: mixamorig_LeftHandThumb4_2
+    400162: mixamorig_LeftLeg
+    400164: mixamorig_LeftLeg_2
+    400166: mixamorig_LeftShoulder
+    400168: mixamorig_LeftShoulder_2
+    400170: mixamorig_LeftToe_End
+    400172: mixamorig_LeftToe_End_2
+    400174: mixamorig_LeftToeBase
+    400176: mixamorig_LeftToeBase_2
+    400178: mixamorig_LeftUpLeg
+    400180: mixamorig_LeftUpLeg_2
+    400182: mixamorig_Neck
+    400184: mixamorig_Neck_2
+    400186: mixamorig_RightArm
+    400188: mixamorig_RightArm_2
+    400190: mixamorig_RightFoot
+    400192: mixamorig_RightFoot_2
+    400194: mixamorig_RightForeArm
+    400196: mixamorig_RightForeArm_2
+    400198: mixamorig_RightHand
+    400200: mixamorig_RightHand_2
+    400202: mixamorig_RightHandIndex1
+    400204: mixamorig_RightHandIndex1_2
+    400206: mixamorig_RightHandIndex2
+    400208: mixamorig_RightHandIndex2_2
+    400210: mixamorig_RightHandIndex3
+    400212: mixamorig_RightHandIndex3_2
+    400214: mixamorig_RightHandIndex4
+    400216: mixamorig_RightHandIndex4_2
+    400218: mixamorig_RightHandMiddle1
+    400220: mixamorig_RightHandMiddle1_2
+    400222: mixamorig_RightHandMiddle2
+    400224: mixamorig_RightHandMiddle2_2
+    400226: mixamorig_RightHandMiddle3
+    400228: mixamorig_RightHandMiddle3_2
+    400230: mixamorig_RightHandMiddle4
+    400232: mixamorig_RightHandMiddle4_2
+    400234: mixamorig_RightHandPinky1
+    400236: mixamorig_RightHandPinky1_2
+    400238: mixamorig_RightHandPinky2
+    400240: mixamorig_RightHandPinky2_2
+    400242: mixamorig_RightHandPinky3
+    400244: mixamorig_RightHandPinky3_2
+    400246: mixamorig_RightHandPinky4
+    400248: mixamorig_RightHandPinky4_2
+    400250: mixamorig_RightHandRing1
+    400252: mixamorig_RightHandRing1_2
+    400254: mixamorig_RightHandRing2
+    400256: mixamorig_RightHandRing2_2
+    400258: mixamorig_RightHandRing3
+    400260: mixamorig_RightHandRing3_2
+    400262: mixamorig_RightHandRing4
+    400264: mixamorig_RightHandRing4_2
+    400266: mixamorig_RightHandThumb1
+    400268: mixamorig_RightHandThumb1_2
+    400270: mixamorig_RightHandThumb2
+    400272: mixamorig_RightHandThumb2_2
+    400274: mixamorig_RightHandThumb3
+    400276: mixamorig_RightHandThumb3_2
+    400278: mixamorig_RightHandThumb4
+    400280: mixamorig_RightHandThumb4_2
+    400282: mixamorig_RightLeg
+    400284: mixamorig_RightLeg_2
+    400286: mixamorig_RightShoulder
+    400288: mixamorig_RightShoulder_2
+    400290: mixamorig_RightToe_End
+    400292: mixamorig_RightToe_End_2
+    400294: mixamorig_RightToeBase
+    400296: mixamorig_RightToeBase_2
+    400298: mixamorig_RightUpLeg
+    400300: mixamorig_RightUpLeg_2
+    400302: mixamorig_Spine
+    400304: mixamorig_Spine1
+    400306: mixamorig_Spine1_2
+    400308: mixamorig_Spine2
+    400310: mixamorig_Spine2_2
+    400312: mixamorig_Spine_2
+    400314: //RootNode
+    400316: Pg23
+    400318: Plane
+    400320: Platter
+    400322: Sam
+    400324: Sammy
+    400326: Sphere_1
+    400328: Sphere_2
+    400330: Tree
+    2300000: Book_Open_
+    2300002: Crate_2
+    2300004: Cube_1
+    2300006: Cube_4
+    2300008: Cube_5
+    2300010: Cube_6
+    2300012: Cube_7
+    2300014: Cube_7_2
+    2300016: Cube_7_3
+    2300018: Cylinder
+    2300020: Cylinder_1
+    2300022: Cylinder_2
+    2300024: Dish
+    2300026: Egg
+    2300028: Egg_1
+    2300030: Fork
+    2300032: Fox
+    2300034: Ham
+    2300036: Pg23
+    2300038: Plane
+    2300040: Sphere_1
+    2300042: Sphere_2
+    3300000: Book_Open_
+    3300002: Crate_2
+    3300004: Cube_1
+    3300006: Cube_4
+    3300008: Cube_5
+    3300010: Cube_6
+    3300012: Cube_7
+    3300014: Cube_7_2
+    3300016: Cube_7_3
+    3300018: Cylinder
+    3300020: Cylinder_1
+    3300022: Cylinder_2
+    3300024: Dish
+    3300026: Egg
+    3300028: Egg_1
+    3300030: Fork
+    3300032: Fox
+    3300034: Ham
+    3300036: Pg23
+    3300038: Plane
+    3300040: Sphere_1
+    3300042: Sphere_2
+    4300000: Fork
+    4300002: Ham
+    4300004: Egg_1
+    4300006: Egg
+    4300008: Dish
+    4300010: Sam
+    4300012: Fox
+    4300014: Cylinder
+    4300016: Sphere_1
+    4300018: Sphere_2
+    4300020: Cube_7
+    4300022: Cube_7_2
+    4300024: Cylinder_1
+    4300026: Cylinder_2
+    4300028: Crate_2
+    4300030: Hat
+    4300032: GuyHeadStandard
+    4300034: GuyBody
+    4300036: Cube_1
+    4300038: Cube_7_3
+    4300040: Cube_6
+    4300042: Cube_5
+    4300044: Cube_4
+    4300046: Plane
+    4300048: Pg23
+    4300050: Book_Open_
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: GuyBody
+    13700002: GuyHeadStandard
+    13700004: Hat
+    13700006: Sam
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C4D Animation Take
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Book_Open_
+        weight: 1
+      - path: Bushes
+        weight: 1
+      - path: Bushes/Cube_1
+        weight: 1
+      - path: Bushes/Cube_4
+        weight: 1
+      - path: Bushes/Cube_5
+        weight: 1
+      - path: Bushes/Cube_6
+        weight: 1
+      - path: Bushes/Cube_7_3
+        weight: 1
+      - path: Cinema4D_Editor
+        weight: 1
+      - path: CrateTree
+        weight: 1
+      - path: CrateTree/Crate
+        weight: 1
+      - path: CrateTree/Crate/Crate_2
+        weight: 1
+      - path: CrateTree/Cylinder
+        weight: 1
+      - path: CrateTree/Sphere_1
+        weight: 1
+      - path: CrateTree/Sphere_2
+        weight: 1
+      - path: CrateTree/Tree
+        weight: 1
+      - path: CrateTree/Tree/Cube_7
+        weight: 1
+      - path: CrateTree/Tree/Cube_7_2
+        weight: 1
+      - path: CrateTree/Tree/Cylinder_1
+        weight: 1
+      - path: CrateTree/Tree/Cylinder_2
+        weight: 1
+      - path: Fox
+        weight: 1
+      - path: GuyShocked
+        weight: 1
+      - path: GuyShocked/Guy
+        weight: 1
+      - path: GuyShocked/Guy/GuyBody
+        weight: 1
+      - path: GuyShocked/Guy/GuyHeadStandard
+        weight: 1
+      - path: GuyShocked/Guy/Hat
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_LeftUpLeg_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_LeftUpLeg_2/mixamorig_LeftLeg_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_LeftUpLeg_2/mixamorig_LeftLeg_2/mixamorig_LeftFoot_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_LeftUpLeg_2/mixamorig_LeftLeg_2/mixamorig_LeftFoot_2/mixamorig_LeftToeBase_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_LeftUpLeg_2/mixamorig_LeftLeg_2/mixamorig_LeftFoot_2/mixamorig_LeftToeBase_2/mixamorig_LeftToe_End_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_RightUpLeg_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_RightUpLeg_2/mixamorig_RightLeg_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_RightUpLeg_2/mixamorig_RightLeg_2/mixamorig_RightFoot_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_RightUpLeg_2/mixamorig_RightLeg_2/mixamorig_RightFoot_2/mixamorig_RightToeBase_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_RightUpLeg_2/mixamorig_RightLeg_2/mixamorig_RightFoot_2/mixamorig_RightToeBase_2/mixamorig_RightToe_End_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandIndex1_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandIndex1_2/mixamorig_LeftHandIndex2_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandIndex1_2/mixamorig_LeftHandIndex2_2/mixamorig_LeftHandIndex3_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandIndex1_2/mixamorig_LeftHandIndex2_2/mixamorig_LeftHandIndex3_2/mixamorig_LeftHandIndex4_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandMiddle1_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandMiddle1_2/mixamorig_LeftHandMiddle2_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandMiddle1_2/mixamorig_LeftHandMiddle2_2/mixamorig_LeftHandMiddle3_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandMiddle1_2/mixamorig_LeftHandMiddle2_2/mixamorig_LeftHandMiddle3_2/mixamorig_LeftHandMiddle4_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandPinky1_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandPinky1_2/mixamorig_LeftHandPinky2_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandPinky1_2/mixamorig_LeftHandPinky2_2/mixamorig_LeftHandPinky3_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandPinky1_2/mixamorig_LeftHandPinky2_2/mixamorig_LeftHandPinky3_2/mixamorig_LeftHandPinky4_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandRing1_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandRing1_2/mixamorig_LeftHandRing2_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandRing1_2/mixamorig_LeftHandRing2_2/mixamorig_LeftHandRing3_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandRing1_2/mixamorig_LeftHandRing2_2/mixamorig_LeftHandRing3_2/mixamorig_LeftHandRing4_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandThumb1_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandThumb1_2/mixamorig_LeftHandThumb2_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandThumb1_2/mixamorig_LeftHandThumb2_2/mixamorig_LeftHandThumb3_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandThumb1_2/mixamorig_LeftHandThumb2_2/mixamorig_LeftHandThumb3_2/mixamorig_LeftHandThumb4_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_Neck_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_Neck_2/mixamorig_Head_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_Neck_2/mixamorig_Head_2/mixamorig_HeadTop_End_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandIndex1_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandIndex1_2/mixamorig_RightHandIndex2_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandIndex1_2/mixamorig_RightHandIndex2_2/mixamorig_RightHandIndex3_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandIndex1_2/mixamorig_RightHandIndex2_2/mixamorig_RightHandIndex3_2/mixamorig_RightHandIndex4_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandMiddle1_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandMiddle1_2/mixamorig_RightHandMiddle2_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandMiddle1_2/mixamorig_RightHandMiddle2_2/mixamorig_RightHandMiddle3_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandMiddle1_2/mixamorig_RightHandMiddle2_2/mixamorig_RightHandMiddle3_2/mixamorig_RightHandMiddle4_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandPinky1_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandPinky1_2/mixamorig_RightHandPinky2_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandPinky1_2/mixamorig_RightHandPinky2_2/mixamorig_RightHandPinky3_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandPinky1_2/mixamorig_RightHandPinky2_2/mixamorig_RightHandPinky3_2/mixamorig_RightHandPinky4_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandRing1_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandRing1_2/mixamorig_RightHandRing2_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandRing1_2/mixamorig_RightHandRing2_2/mixamorig_RightHandRing3_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandRing1_2/mixamorig_RightHandRing2_2/mixamorig_RightHandRing3_2/mixamorig_RightHandRing4_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandThumb1_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandThumb1_2/mixamorig_RightHandThumb2_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandThumb1_2/mixamorig_RightHandThumb2_2/mixamorig_RightHandThumb3_2
+        weight: 1
+      - path: GuyShocked/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandThumb1_2/mixamorig_RightHandThumb2_2/mixamorig_RightHandThumb3_2/mixamorig_RightHandThumb4_2
+        weight: 1
+      - path: Pg23
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Platter
+        weight: 1
+      - path: Platter/Dish
+        weight: 1
+      - path: Platter/Egg
+        weight: 1
+      - path: Platter/Egg_1
+        weight: 1
+      - path: Platter/Fork
+        weight: 1
+      - path: Platter/Ham
+        weight: 1
+      - path: Sammy
+        weight: 1
+      - path: Sammy/mixamorig_Hips
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandMiddle1
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandMiddle1/mixamorig_LeftHandMiddle2
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandMiddle1/mixamorig_LeftHandMiddle2/mixamorig_LeftHandMiddle3
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandMiddle1/mixamorig_LeftHandMiddle2/mixamorig_LeftHandMiddle3/mixamorig_LeftHandMiddle4
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandPinky1
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandPinky1/mixamorig_LeftHandPinky2
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandPinky1/mixamorig_LeftHandPinky2/mixamorig_LeftHandPinky3
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandPinky1/mixamorig_LeftHandPinky2/mixamorig_LeftHandPinky3/mixamorig_LeftHandPinky4
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandRing1
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandRing1/mixamorig_LeftHandRing2
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandRing1/mixamorig_LeftHandRing2/mixamorig_LeftHandRing3
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandRing1/mixamorig_LeftHandRing2/mixamorig_LeftHandRing3/mixamorig_LeftHandRing4
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandThumb1
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandThumb1/mixamorig_LeftHandThumb2
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandThumb1/mixamorig_LeftHandThumb2/mixamorig_LeftHandThumb3
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandThumb1/mixamorig_LeftHandThumb2/mixamorig_LeftHandThumb3/mixamorig_LeftHandThumb4
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandMiddle1
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandMiddle1/mixamorig_RightHandMiddle2
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandMiddle1/mixamorig_RightHandMiddle2/mixamorig_RightHandMiddle3
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandMiddle1/mixamorig_RightHandMiddle2/mixamorig_RightHandMiddle3/mixamorig_RightHandMiddle4
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandPinky1
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandPinky1/mixamorig_RightHandPinky2
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandPinky1/mixamorig_RightHandPinky2/mixamorig_RightHandPinky3
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandPinky1/mixamorig_RightHandPinky2/mixamorig_RightHandPinky3/mixamorig_RightHandPinky4
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandRing1
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandRing1/mixamorig_RightHandRing2
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandRing1/mixamorig_RightHandRing2/mixamorig_RightHandRing3
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandRing1/mixamorig_RightHandRing2/mixamorig_RightHandRing3/mixamorig_RightHandRing4
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandThumb1
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandThumb1/mixamorig_RightHandThumb2
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandThumb1/mixamorig_RightHandThumb2/mixamorig_RightHandThumb3
+        weight: 1
+      - path: Sammy/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandThumb1/mixamorig_RightHandThumb2/mixamorig_RightHandThumb3/mixamorig_RightHandThumb4
+        weight: 1
+      - path: Sammy/Sam
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

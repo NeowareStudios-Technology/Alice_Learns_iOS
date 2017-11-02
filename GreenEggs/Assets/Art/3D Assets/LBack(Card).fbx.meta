@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: a0c63b5e20b774f79a510ace43c072bf
+timeCreated: 1508733844
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1
+    100002: 1_2
+    100004: _
+    100006: A
+    100008: a
+    100010: a_2
+    100012: a_3
+    100014: All
+    100016: an
+    100018: Apps
+    100020: Astronaut
+    100022: Bulb
+    100024: Bulb_2
+    100026: Cap_1
+    100028: Cap_1_10
+    100030: Cap_1_11
+    100032: Cap_1_12
+    100034: Cap_1_13
+    100036: Cap_1_14
+    100038: Cap_1_15
+    100040: Cap_1_16
+    100042: Cap_1_17
+    100044: Cap_1_18
+    100046: Cap_1_19
+    100048: Cap_1_2
+    100050: Cap_1_20
+    100052: Cap_1_3
+    100054: Cap_1_4
+    100056: Cap_1_5
+    100058: Cap_1_6
+    100060: Cap_1_7
+    100062: Cap_1_8
+    100064: Cap_1_9
+    100066: Cap_2
+    100068: Cap_2_10
+    100070: Cap_2_11
+    100072: Cap_2_12
+    100074: Cap_2_13
+    100076: Cap_2_14
+    100078: Cap_2_15
+    100080: Cap_2_16
+    100082: Cap_2_17
+    100084: Cap_2_18
+    100086: Cap_2_19
+    100088: Cap_2_2
+    100090: Cap_2_20
+    100092: Cap_2_3
+    100094: Cap_2_4
+    100096: Cap_2_5
+    100098: Cap_2_6
+    100100: Cap_2_7
+    100102: Cap_2_8
+    100104: Cap_2_9
+    100106: CINEMA_4D_Editor
+    100108: d
+    100110: e
+    100112: e_2
+    100114: e_3
+    100116: Flag
+    100118: G
+    100120: Got
+    100122: Head
+    100124: HeadTip
+    100126: Hips
+    100128: I
+    100130: Idea
+    100132: Idea_
+    100134: k
+    100136: //RootNode
+    100138: LBC
+    100140: LeftArm
+    100142: LeftFoot
+    100144: LeftForeArm
+    100146: LeftHand
+    100148: LeftLeg
+    100150: LeftMiddle
+    100152: LeftMiddleM
+    100154: LeftMidlleTip
+    100156: LeftPinky
+    100158: LeftPinkyM
+    100160: LeftPinkyTip
+    100162: LeftPointer
+    100164: LeftPointerM
+    100166: LeftPointerTip
+    100168: LeftRing
+    100170: LeftRingM
+    100172: LeftRingTip
+    100174: LeftThumb
+    100176: LeftThumbM
+    100178: LeftThumbTip
+    100180: LeftToes
+    100182: LeftToesTip
+    100184: LeftUpLeg
+    100186: Light
+    100188: m
+    100190: make
+    100192: Moon
+    100194: MoText
+    100196: n
+    100198: Neck
+    100200: Null
+    100202: Null_2
+    100204: o
+    100206: p
+    100208: p_2
+    100210: Phone
+    100212: Plane
+    100214: Plane_1
+    100216: RightArm
+    100218: RightFoot
+    100220: RightForeArm
+    100222: RightHand
+    100224: RightLeg
+    100226: RightMiddle
+    100228: RightMiddleM
+    100230: RightMidlleTip
+    100232: RightPinky
+    100234: RightPinkyM
+    100236: RightPinkyTip
+    100238: RightPointer
+    100240: RightPointerM
+    100242: RightPointerTip
+    100244: RightRing
+    100246: RightRingM
+    100248: RightRingTip
+    100250: RightThumb
+    100252: RightThumbM
+    100254: RightThumbTip
+    100256: RightToes
+    100258: RightToesTip
+    100260: RightUpLeg
+    100262: s
+    100264: Ship
+    100266: Ship_2
+    100268: Sphere
+    100270: Spine
+    100272: Spine1
+    100274: Spine2
+    100276: t
+    100278: Text
+    100280: Text_2
+    100282: W
+    100284: We
+    400000: 1
+    400002: 1_2
+    400004: _
+    400006: A
+    400008: a
+    400010: a_2
+    400012: a_3
+    400014: All
+    400016: an
+    400018: Apps
+    400020: Astronaut
+    400022: Bulb
+    400024: Bulb_2
+    400026: Cap_1
+    400028: Cap_1_10
+    400030: Cap_1_11
+    400032: Cap_1_12
+    400034: Cap_1_13
+    400036: Cap_1_14
+    400038: Cap_1_15
+    400040: Cap_1_16
+    400042: Cap_1_17
+    400044: Cap_1_18
+    400046: Cap_1_19
+    400048: Cap_1_2
+    400050: Cap_1_20
+    400052: Cap_1_3
+    400054: Cap_1_4
+    400056: Cap_1_5
+    400058: Cap_1_6
+    400060: Cap_1_7
+    400062: Cap_1_8
+    400064: Cap_1_9
+    400066: Cap_2
+    400068: Cap_2_10
+    400070: Cap_2_11
+    400072: Cap_2_12
+    400074: Cap_2_13
+    400076: Cap_2_14
+    400078: Cap_2_15
+    400080: Cap_2_16
+    400082: Cap_2_17
+    400084: Cap_2_18
+    400086: Cap_2_19
+    400088: Cap_2_2
+    400090: Cap_2_20
+    400092: Cap_2_3
+    400094: Cap_2_4
+    400096: Cap_2_5
+    400098: Cap_2_6
+    400100: Cap_2_7
+    400102: Cap_2_8
+    400104: Cap_2_9
+    400106: CINEMA_4D_Editor
+    400108: d
+    400110: e
+    400112: e_2
+    400114: e_3
+    400116: Flag
+    400118: G
+    400120: Got
+    400122: Head
+    400124: HeadTip
+    400126: Hips
+    400128: I
+    400130: Idea
+    400132: Idea_
+    400134: k
+    400136: //RootNode
+    400138: LBC
+    400140: LeftArm
+    400142: LeftFoot
+    400144: LeftForeArm
+    400146: LeftHand
+    400148: LeftLeg
+    400150: LeftMiddle
+    400152: LeftMiddleM
+    400154: LeftMidlleTip
+    400156: LeftPinky
+    400158: LeftPinkyM
+    400160: LeftPinkyTip
+    400162: LeftPointer
+    400164: LeftPointerM
+    400166: LeftPointerTip
+    400168: LeftRing
+    400170: LeftRingM
+    400172: LeftRingTip
+    400174: LeftThumb
+    400176: LeftThumbM
+    400178: LeftThumbTip
+    400180: LeftToes
+    400182: LeftToesTip
+    400184: LeftUpLeg
+    400186: Light
+    400188: m
+    400190: make
+    400192: Moon
+    400194: MoText
+    400196: n
+    400198: Neck
+    400200: Null
+    400202: Null_2
+    400204: o
+    400206: p
+    400208: p_2
+    400210: Phone
+    400212: Plane
+    400214: Plane_1
+    400216: RightArm
+    400218: RightFoot
+    400220: RightForeArm
+    400222: RightHand
+    400224: RightLeg
+    400226: RightMiddle
+    400228: RightMiddleM
+    400230: RightMidlleTip
+    400232: RightPinky
+    400234: RightPinkyM
+    400236: RightPinkyTip
+    400238: RightPointer
+    400240: RightPointerM
+    400242: RightPointerTip
+    400244: RightRing
+    400246: RightRingM
+    400248: RightRingTip
+    400250: RightThumb
+    400252: RightThumbM
+    400254: RightThumbTip
+    400256: RightToes
+    400258: RightToesTip
+    400260: RightUpLeg
+    400262: s
+    400264: Ship
+    400266: Ship_2
+    400268: Sphere
+    400270: Spine
+    400272: Spine1
+    400274: Spine2
+    400276: t
+    400278: Text
+    400280: Text_2
+    400282: W
+    400284: We
+    2300000: _
+    2300002: A
+    2300004: a
+    2300006: a_2
+    2300008: a_3
+    2300010: Bulb_2
+    2300012: Cap_1
+    2300014: Cap_1_10
+    2300016: Cap_1_11
+    2300018: Cap_1_12
+    2300020: Cap_1_13
+    2300022: Cap_1_14
+    2300024: Cap_1_15
+    2300026: Cap_1_16
+    2300028: Cap_1_17
+    2300030: Cap_1_18
+    2300032: Cap_1_19
+    2300034: Cap_1_2
+    2300036: Cap_1_20
+    2300038: Cap_1_3
+    2300040: Cap_1_4
+    2300042: Cap_1_5
+    2300044: Cap_1_6
+    2300046: Cap_1_7
+    2300048: Cap_1_8
+    2300050: Cap_1_9
+    2300052: Cap_2
+    2300054: Cap_2_10
+    2300056: Cap_2_11
+    2300058: Cap_2_12
+    2300060: Cap_2_13
+    2300062: Cap_2_14
+    2300064: Cap_2_15
+    2300066: Cap_2_16
+    2300068: Cap_2_17
+    2300070: Cap_2_18
+    2300072: Cap_2_19
+    2300074: Cap_2_2
+    2300076: Cap_2_20
+    2300078: Cap_2_3
+    2300080: Cap_2_4
+    2300082: Cap_2_5
+    2300084: Cap_2_6
+    2300086: Cap_2_7
+    2300088: Cap_2_8
+    2300090: Cap_2_9
+    2300092: d
+    2300094: e
+    2300096: e_2
+    2300098: e_3
+    2300100: Flag
+    2300102: G
+    2300104: I
+    2300106: k
+    2300108: LBC
+    2300110: m
+    2300112: n
+    2300114: o
+    2300116: p
+    2300118: p_2
+    2300120: Phone
+    2300122: Plane
+    2300124: Plane_1
+    2300126: s
+    2300128: Ship_2
+    2300130: Sphere
+    2300132: t
+    2300134: W
+    3300000: _
+    3300002: A
+    3300004: a
+    3300006: a_2
+    3300008: a_3
+    3300010: Bulb_2
+    3300012: Cap_1
+    3300014: Cap_1_10
+    3300016: Cap_1_11
+    3300018: Cap_1_12
+    3300020: Cap_1_13
+    3300022: Cap_1_14
+    3300024: Cap_1_15
+    3300026: Cap_1_16
+    3300028: Cap_1_17
+    3300030: Cap_1_18
+    3300032: Cap_1_19
+    3300034: Cap_1_2
+    3300036: Cap_1_20
+    3300038: Cap_1_3
+    3300040: Cap_1_4
+    3300042: Cap_1_5
+    3300044: Cap_1_6
+    3300046: Cap_1_7
+    3300048: Cap_1_8
+    3300050: Cap_1_9
+    3300052: Cap_2
+    3300054: Cap_2_10
+    3300056: Cap_2_11
+    3300058: Cap_2_12
+    3300060: Cap_2_13
+    3300062: Cap_2_14
+    3300064: Cap_2_15
+    3300066: Cap_2_16
+    3300068: Cap_2_17
+    3300070: Cap_2_18
+    3300072: Cap_2_19
+    3300074: Cap_2_2
+    3300076: Cap_2_20
+    3300078: Cap_2_3
+    3300080: Cap_2_4
+    3300082: Cap_2_5
+    3300084: Cap_2_6
+    3300086: Cap_2_7
+    3300088: Cap_2_8
+    3300090: Cap_2_9
+    3300092: d
+    3300094: e
+    3300096: e_2
+    3300098: e_3
+    3300100: Flag
+    3300102: G
+    3300104: I
+    3300106: k
+    3300108: LBC
+    3300110: m
+    3300112: n
+    3300114: o
+    3300116: p
+    3300118: p_2
+    3300120: Phone
+    3300122: Plane
+    3300124: Plane_1
+    3300126: s
+    3300128: Ship_2
+    3300130: Sphere
+    3300132: t
+    3300134: W
+    4300000: Flag
+    4300002: LBC
+    4300004: W
+    4300006: Cap_1
+    4300008: Cap_2
+    4300010: e
+    4300012: Cap_1_2
+    4300014: Cap_2_2
+    4300016: m
+    4300018: Cap_1_3
+    4300020: Cap_2_3
+    4300022: a
+    4300024: Cap_1_4
+    4300026: Cap_2_4
+    4300028: k
+    4300030: Cap_1_5
+    4300032: Cap_2_5
+    4300034: e_2
+    4300036: Cap_1_6
+    4300038: Cap_2_6
+    4300040: A
+    4300042: Cap_1_7
+    4300044: Cap_2_7
+    4300046: p
+    4300048: Cap_1_8
+    4300050: Cap_2_8
+    4300052: p_2
+    4300054: Cap_1_9
+    4300056: Cap_2_9
+    4300058: s
+    4300060: Cap_1_10
+    4300062: Cap_2_10
+    4300064: Plane_1
+    4300066: Plane
+    4300068: Bulb_2
+    4300070: G
+    4300072: Cap_1_11
+    4300074: Cap_2_11
+    4300076: o
+    4300078: Cap_1_12
+    4300080: Cap_2_12
+    4300082: t
+    4300084: Cap_1_13
+    4300086: Cap_2_13
+    4300088: a_2
+    4300090: Cap_1_14
+    4300092: Cap_2_14
+    4300094: n
+    4300096: Cap_1_15
+    4300098: Cap_2_15
+    4300100: I
+    4300102: Cap_1_16
+    4300104: Cap_2_16
+    4300106: d
+    4300108: Cap_1_17
+    4300110: Cap_2_17
+    4300112: e_3
+    4300114: Cap_1_18
+    4300116: Cap_2_18
+    4300118: a_3
+    4300120: Cap_1_19
+    4300122: Cap_2_19
+    4300124: _
+    4300126: Cap_1_20
+    4300128: Cap_2_20
+    4300130: Ship
+    4300132: Ship_2
+    4300134: Astronaut
+    4300136: Phone
+    4300138: Sphere
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Astronaut
+    13700002: Ship
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C4D Animation Take
+      takeName: C4D Animation Take
+      firstFrame: 423
+      lastFrame: 2000
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: All
+        weight: 1
+      - path: All/Bulb
+        weight: 1
+      - path: All/Bulb/Bulb_2
+        weight: 1
+      - path: All/Bulb/Plane
+        weight: 1
+      - path: All/Bulb/Plane_1
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Flag
+        weight: 1
+      - path: Idea
+        weight: 1
+      - path: Idea/Text_2
+        weight: 1
+      - path: Idea/Text_2/1_2
+        weight: 1
+      - path: Idea/Text_2/1_2/an
+        weight: 1
+      - path: Idea/Text_2/1_2/an/a_2
+        weight: 1
+      - path: Idea/Text_2/1_2/an/a_2/Cap_1_14
+        weight: 1
+      - path: Idea/Text_2/1_2/an/a_2/Cap_2_14
+        weight: 1
+      - path: Idea/Text_2/1_2/an/n
+        weight: 1
+      - path: Idea/Text_2/1_2/an/n/Cap_1_15
+        weight: 1
+      - path: Idea/Text_2/1_2/an/n/Cap_2_15
+        weight: 1
+      - path: Idea/Text_2/1_2/Got
+        weight: 1
+      - path: Idea/Text_2/1_2/Got/G
+        weight: 1
+      - path: Idea/Text_2/1_2/Got/G/Cap_1_11
+        weight: 1
+      - path: Idea/Text_2/1_2/Got/G/Cap_2_11
+        weight: 1
+      - path: Idea/Text_2/1_2/Got/o
+        weight: 1
+      - path: Idea/Text_2/1_2/Got/o/Cap_1_12
+        weight: 1
+      - path: Idea/Text_2/1_2/Got/o/Cap_2_12
+        weight: 1
+      - path: Idea/Text_2/1_2/Got/t
+        weight: 1
+      - path: Idea/Text_2/1_2/Got/t/Cap_1_13
+        weight: 1
+      - path: Idea/Text_2/1_2/Got/t/Cap_2_13
+        weight: 1
+      - path: Idea/Text_2/1_2/Idea_
+        weight: 1
+      - path: Idea/Text_2/1_2/Idea_/_
+        weight: 1
+      - path: Idea/Text_2/1_2/Idea_/_/Cap_1_20
+        weight: 1
+      - path: Idea/Text_2/1_2/Idea_/_/Cap_2_20
+        weight: 1
+      - path: Idea/Text_2/1_2/Idea_/a_3
+        weight: 1
+      - path: Idea/Text_2/1_2/Idea_/a_3/Cap_1_19
+        weight: 1
+      - path: Idea/Text_2/1_2/Idea_/a_3/Cap_2_19
+        weight: 1
+      - path: Idea/Text_2/1_2/Idea_/d
+        weight: 1
+      - path: Idea/Text_2/1_2/Idea_/d/Cap_1_17
+        weight: 1
+      - path: Idea/Text_2/1_2/Idea_/d/Cap_2_17
+        weight: 1
+      - path: Idea/Text_2/1_2/Idea_/e_3
+        weight: 1
+      - path: Idea/Text_2/1_2/Idea_/e_3/Cap_1_18
+        weight: 1
+      - path: Idea/Text_2/1_2/Idea_/e_3/Cap_2_18
+        weight: 1
+      - path: Idea/Text_2/1_2/Idea_/I
+        weight: 1
+      - path: Idea/Text_2/1_2/Idea_/I/Cap_1_16
+        weight: 1
+      - path: Idea/Text_2/1_2/Idea_/I/Cap_2_16
+        weight: 1
+      - path: LBC
+        weight: 1
+      - path: MoText
+        weight: 1
+      - path: MoText/Text
+        weight: 1
+      - path: MoText/Text/1
+        weight: 1
+      - path: MoText/Text/1/Apps
+        weight: 1
+      - path: MoText/Text/1/Apps/A
+        weight: 1
+      - path: MoText/Text/1/Apps/A/Cap_1_7
+        weight: 1
+      - path: MoText/Text/1/Apps/A/Cap_2_7
+        weight: 1
+      - path: MoText/Text/1/Apps/p
+        weight: 1
+      - path: MoText/Text/1/Apps/p/Cap_1_8
+        weight: 1
+      - path: MoText/Text/1/Apps/p/Cap_2_8
+        weight: 1
+      - path: MoText/Text/1/Apps/p_2
+        weight: 1
+      - path: MoText/Text/1/Apps/p_2/Cap_1_9
+        weight: 1
+      - path: MoText/Text/1/Apps/p_2/Cap_2_9
+        weight: 1
+      - path: MoText/Text/1/Apps/s
+        weight: 1
+      - path: MoText/Text/1/Apps/s/Cap_1_10
+        weight: 1
+      - path: MoText/Text/1/Apps/s/Cap_2_10
+        weight: 1
+      - path: MoText/Text/1/make
+        weight: 1
+      - path: MoText/Text/1/make/a
+        weight: 1
+      - path: MoText/Text/1/make/a/Cap_1_4
+        weight: 1
+      - path: MoText/Text/1/make/a/Cap_2_4
+        weight: 1
+      - path: MoText/Text/1/make/e_2
+        weight: 1
+      - path: MoText/Text/1/make/e_2/Cap_1_6
+        weight: 1
+      - path: MoText/Text/1/make/e_2/Cap_2_6
+        weight: 1
+      - path: MoText/Text/1/make/k
+        weight: 1
+      - path: MoText/Text/1/make/k/Cap_1_5
+        weight: 1
+      - path: MoText/Text/1/make/k/Cap_2_5
+        weight: 1
+      - path: MoText/Text/1/make/m
+        weight: 1
+      - path: MoText/Text/1/make/m/Cap_1_3
+        weight: 1
+      - path: MoText/Text/1/make/m/Cap_2_3
+        weight: 1
+      - path: MoText/Text/1/We
+        weight: 1
+      - path: MoText/Text/1/We/e
+        weight: 1
+      - path: MoText/Text/1/We/e/Cap_1_2
+        weight: 1
+      - path: MoText/Text/1/We/e/Cap_2_2
+        weight: 1
+      - path: MoText/Text/1/We/W
+        weight: 1
+      - path: MoText/Text/1/We/W/Cap_1
+        weight: 1
+      - path: MoText/Text/1/We/W/Cap_2
+        weight: 1
+      - path: Null
+        weight: 1
+      - path: Null/Moon
+        weight: 1
+      - path: Null/Moon/Light
+        weight: 1
+      - path: Null/Moon/Sphere
+        weight: 1
+      - path: Null/Ship
+        weight: 1
+      - path: Null/Ship/Null_2
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/LeftUpLeg
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/LeftUpLeg/LeftLeg/LeftFoot
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToes
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToes/LeftToesTip
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/RightUpLeg
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/RightUpLeg/RightLeg
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/RightUpLeg/RightLeg/RightFoot
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/RightUpLeg/RightLeg/RightFoot/RightToes
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/RightUpLeg/RightLeg/RightFoot/RightToes/RightToesTip
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/LeftArm
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/LeftArm/LeftForeArm
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftMiddle
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftMiddle/LeftMiddleM
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftMiddle/LeftMiddleM/LeftMidlleTip
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftPinky
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftPinky/LeftPinkyM
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftPinky/LeftPinkyM/LeftPinkyTip
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftPointer
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftPointer/LeftPointerM
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftPointer/LeftPointerM/LeftPointerTip
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftRing
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftRing/LeftRingM
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftRing/LeftRingM/LeftRingTip
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftThumb
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftThumb/LeftThumbM
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftThumb/LeftThumbM/LeftThumbTip
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/Neck
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/Neck/Head
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTip
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/RightArm
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/RightArm/RightForeArm
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightMiddle
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightMiddle/RightMiddleM
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightMiddle/RightMiddleM/RightMidlleTip
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightPinky
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightPinky/RightPinkyM
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightPinky/RightPinkyM/RightPinkyTip
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightPointer
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightPointer/RightPointerM
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightPointer/RightPointerM/RightPointerTip
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightRing
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightRing/RightRingM
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightRing/RightRingM/RightRingTip
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightThumb
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightThumb/RightThumbM
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Hips/Spine/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightThumb/RightThumbM/RightThumbTip
+        weight: 1
+      - path: Null/Ship/Null_2/Astronaut/Phone
+        weight: 1
+      - path: Null/Ship/Ship_2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

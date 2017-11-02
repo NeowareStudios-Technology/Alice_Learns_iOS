@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "launchable-ucf-reading-clinic-c30d7a4ff8e8", "launchable-ucf-reading-clinic-c30d7a4ff8e8.csproj", "{BF7E588E-1A66-1598-299D-5844B5E67F94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "launchable-ucf-reading-clinic-c30d7a4ff8e8.Editor", "launchable-ucf-reading-clinic-c30d7a4ff8e8.Editor.csproj", "{20F25240-6D04-D075-5E7D-7DEE6B7160B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF7E588E-1A66-1598-299D-5844B5E67F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7E588E-1A66-1598-299D-5844B5E67F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7E588E-1A66-1598-299D-5844B5E67F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7E588E-1A66-1598-299D-5844B5E67F94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20F25240-6D04-D075-5E7D-7DEE6B7160B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F25240-6D04-D075-5E7D-7DEE6B7160B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F25240-6D04-D075-5E7D-7DEE6B7160B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F25240-6D04-D075-5E7D-7DEE6B7160B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

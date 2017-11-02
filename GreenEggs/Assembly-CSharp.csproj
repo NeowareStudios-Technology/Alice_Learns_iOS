@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace>
+    </RootNamespace>
+    <ProjectGuid>{D5F3C6FD-DE07-2B1B-E0B4-F8DE2AEB9299}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_2;UNITY_5_6;UNITY_5;UNITY_ANALYTICS;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_ANDROID;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_VR;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;VUFORIA_ANDROID_SETTINGS;CROSS_PLATFORM_INPUT;MOBILE_INPUT;VUFORIA_SAMPLE_ORIENTATION_SETTINGS;VLC_BACKEND;UNITY_HAS_GOOGLEVR</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\0s\LevelController.cs" />
+    <Compile Include="Assets\0s\soundplay.cs" />
+    <Compile Include="Assets\ActivateAnim.cs" />
+    <Compile Include="Assets\Alice App Assets (iPad)\BackgroundMusic.cs" />
+    <Compile Include="Assets\Alice App Assets (iPad)\GotoTrobo.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\AnalyticButtons.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Analytics.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Common\CameraSettings.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Common\FrameRateSettings.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Common\InitErrorHandler.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Common\MenuAnimator.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Common\MenuOptions.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Common\SplashAbout\AboutScreen.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Common\SplashAbout\AsyncSceneLoader.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Common\SplashAbout\LoadingScreen.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Common\TapHandler.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Common\TrackableSettings.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Resources\EnableDisable.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Scripts\PlayVideo.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Scripts\VideoPlaybackMenuOptions.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Scripts\VideoPlaybackTapHandler.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\ParticleSystems\Scripts\AfterburnerPhysicsForce.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\ParticleSystems\Scripts\ExplosionFireAndDebris.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\ParticleSystems\Scripts\ExplosionPhysicsForce.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\ParticleSystems\Scripts\Explosive.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\ParticleSystems\Scripts\ExtinguishableParticleSystem.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\ParticleSystems\Scripts\FireLight.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\ParticleSystems\Scripts\Hose.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\ParticleSystems\Scripts\ParticleSystemMultiplier.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\ParticleSystems\Scripts\SmokeParticles.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\ParticleSystems\Scripts\WaterHoseParticles.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\Utility\ActivateTrigger.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\Utility\AlphaButtonClickMask.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\Utility\AutoMobileShaderSwitch.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\Utility\AutoMoveAndRotate.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\Utility\CameraRefocus.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\Utility\CurveControlledBob.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\Utility\DragRigidbody.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\Utility\DynamicShadowSettings.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\Utility\EventSystemChecker.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\Utility\FOVKick.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\Utility\FPSCounter.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\Utility\FollowTarget.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\Utility\ForcedReset.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\Utility\LerpControlledBob.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\Utility\ObjectResetter.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\Utility\ParticleSystemDestroyer.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\Utility\PlatformSpecificContent.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\Utility\SimpleActivatorMenu.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\Utility\SimpleMouseRotator.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\Utility\SmoothFollow.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\Utility\TimedObjectActivator.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\Utility\TimedObjectDestructor.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\Utility\WaypointCircuit.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\Standard Assets\Utility\WaypointProgressTracker.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\scripts 1\ClickSounds.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\scripts 1\DetectCollision.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\scripts 1\MoveModel.cs" />
+    <Compile Include="Assets\AliceAssetsSpeech\scripts 1\StopJumping.cs" />
+    <Compile Include="Assets\AliceLoading.cs" />
+    <Compile Include="Assets\AudioManager.cs" />
+    <Compile Include="Assets\Click_Sound.cs" />
+    <Compile Include="Assets\CoachesHandler.cs" />
+    <Compile Include="Assets\DatasetHandler.cs" />
+    <Compile Include="Assets\DebugManager.cs" />
+    <Compile Include="Assets\EasyMovieTexture\FFmpeg.AutoGen\FFmpeg.avcodec.g.cs" />
+    <Compile Include="Assets\EasyMovieTexture\FFmpeg.AutoGen\FFmpeg.avdevice.g.cs" />
+    <Compile Include="Assets\EasyMovieTexture\FFmpeg.AutoGen\FFmpeg.avfilter.g.cs" />
+    <Compile Include="Assets\EasyMovieTexture\FFmpeg.AutoGen\FFmpeg.avformat.g.cs" />
+    <Compile Include="Assets\EasyMovieTexture\FFmpeg.AutoGen\FFmpeg.avutil.g.cs" />
+    <Compile Include="Assets\EasyMovieTexture\FFmpeg.AutoGen\FFmpeg.swresample.g.cs" />
+    <Compile Include="Assets\EasyMovieTexture\FFmpeg.AutoGen\FFmpeg.swscale.g.cs" />
+    <Compile Include="Assets\EasyMovieTexture\FFmpeg.AutoGen\Properties\AssemblyInfo.cs" />
+    <Compile Include="Assets\EasyMovieTexture\FFmpeg.AutoGen\Unresolved.cs" />
+    <Compile Include="Assets\EasyMovieTexture\Scripts\MedaiPlayerSampleGUI.cs" />
+    <Compile Include="Assets\EasyMovieTexture\Scripts\MedaiPlayerSampleSphereGUI.cs" />
+    <Compile Include="Assets\EasyMovieTexture\Scripts\MediaPlayerCtrl.cs" />
+    <Compile Include="Assets\EasyMovieTexture\Scripts\MediaPlayerEvent.cs" />
+    <Compile Include="Assets\EasyMovieTexture\Scripts\MediaPlayerFullScreenCtrl.cs" />
+    <Compile Include="Assets\EasyMovieTexture\Scripts\SeekBarCtrl.cs" />
+    <Compile Include="Assets\EasyMovieTexture\Scripts\SphereMirror.cs" />
+    <Compile Include="Assets\GoToActivities.cs" />
+    <Compile Include="Assets\GoToAlice.cs" />
+    <Compile Include="Assets\GoToExplore.cs" />
+    <Compile Include="Assets\GoToLearn.cs" />
+    <Compile Include="Assets\Gotomenu.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Demo TCP2\TCP2 Demo Assets\Misc\TCP2_Demo.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Demo TCP2\TCP2 Demo Assets\Misc\TCP2_Demo_PBS.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Demo TCP2\TCP2 Demo Assets\Misc\TCP2_Demo_PBS_View.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Demo TCP2\TCP2 Demo Assets\Misc\TCP2_Demo_View.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Scripts\TCP2_CameraDepth.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Scripts\TCP2_GetPosOnWater.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Scripts\TCP2_PlanarReflection.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Scripts\TCP2_RuntimeUtils.cs" />
+    <Compile Include="Assets\JMO Assets\Toony Colors Pro\Scripts\TCP2_ShaderUpdateUnityTime.cs" />
+    <Compile Include="Assets\ModalDialogue.cs" />
+    <Compile Include="Assets\Scripts\Analytics\analyticsController.cs" />
+    <Compile Include="Assets\Scripts\Cloud\DynamicDataSetLoader.cs" />
+    <Compile Include="Assets\Scripts\Cloud\metadataParse.cs" />
+    <Compile Include="Assets\Scripts\DisableCoaches.cs" />
+    <Compile Include="Assets\Scripts\Features\coaching.cs" />
+    <Compile Include="Assets\Scripts\Features\flashLightController.cs" />
+    <Compile Include="Assets\Scripts\Features\tapToFocus.cs" />
+    <Compile Include="Assets\Scripts\Features\videoController.cs" />
+    <Compile Include="Assets\Scripts\Features\xmlMetadata.cs" />
+    <Compile Include="Assets\Scripts\UI\ContactButton.cs" />
+    <Compile Include="Assets\Slider Menu Free_New Edition\Scripts\SliderMenu.cs" />
+    <Compile Include="Assets\SplashScreen.cs" />
+    <Compile Include="Assets\SplashVideo.cs" />
+    <Compile Include="Assets\SplitBinaryLoad.cs" />
+    <Compile Include="Assets\TargetTracker.cs" />
+    <Compile Include="Assets\TimeDebugger.cs" />
+    <Compile Include="Assets\ToggleChildren.cs" />
+    <Compile Include="Assets\TrackableEventHandler.cs" />
+    <Compile Include="Assets\VideoControl.cs" />
+    <Compile Include="Assets\VideoLoaderSplit.cs" />
+    <Compile Include="Assets\Vuforia Video Playback\Scripts\VideoPlaybackBehaviour.cs" />
+    <Compile Include="Assets\Vuforia Video Playback\Scripts\VideoPlaybackController.cs" />
+    <Compile Include="Assets\Vuforia Video Playback\Scripts\VideoPlayerHelper.cs" />
+    <Compile Include="Assets\Vuforia\Materials\BookLoad.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\BackgroundPlaneBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\CloudRecoBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\CylinderTargetBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\DefaultInitializationErrorHandler.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\DefaultSmartTerrainEventHandler.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\GLErrorHandler.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\GoBackToMain.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\GotoMain.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\HideExcessAreaBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\ImageTargetBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\Internal\AndroidUnityPlayer.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\Internal\ComponentFactoryStarterBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\Internal\IOSUnityPlayer.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\Internal\VuforiaBehaviourComponentFactory.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\Internal\WSAUnityPlayer.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\MaskOutBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\MultiTargetBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\ObjectTargetBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\PropBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\ReconstructionBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\ReconstructionFromTargetBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\SurfaceBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\TextRecoBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\TurnOffBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\TurnOffWordBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\UserDefinedTargetBuildingBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\Utilities\VRIntegrationHelper.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\VideoBackgroundBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\VirtualButtonBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\VuMarkBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\VuforiaBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\VuforiaConfiguration.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\VuforiaRuntimeInitialization.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\WireframeBehaviour.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\WireframeTrackableEventHandler.cs" />
+    <Compile Include="Assets\Vuforia\Scripts\WordBehaviour.cs" />
+    <Compile Include="Assets\WordSwap.cs" />
+    <Compile Include="Assets\attachments\TrackableEventHandlerPure.cs" />
+    <Compile Include="Assets\dataSetCopier.cs" />
+    <Compile Include="Assets\loadingBar\scripts\Loading.cs" />
+    <Compile Include="Assets\loadingBar\scripts\SimpleLoading.cs" />
+    <Compile Include="Assets\loadingBar\scripts\loadingbar.cs" />
+    <Compile Include="Assets\loadingBar\scripts\loadingcolorful.cs" />
+    <Compile Include="Assets\loadingBar\scripts\loadingtext.cs" />
+    <Compile Include="Assets\loadingBar\scripts\rotatetotate.cs" />
+    <Compile Include="Assets\loadingBar\scripts\simplerotate.cs" />
+    <Compile Include="Assets\swipeUI\scripts\aliceHandler.cs" />
+    <Compile Include="Assets\swipeUI\scripts\wordUI.cs" />
+    <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+    <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0\Include\TCP2_Outline_SM2.shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0\TCP2_OutlineOnly Blended.shader" />
+    <None Include="Assets\Plugins\iOS\VuforiaMediaSource\src\VideoPlayerWrapper.mm.txt" />
+    <None Include="Assets\link.xml" />
+    <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
+    <None Include="Assets\AliceAssetsSpeech\license_3rdpartynotice.txt" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0 Generated\Examples\Default\Old School.shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders PBS\TCP2_Standard PBS Outline (Specular).shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0\Variants Base\TCP2_Desktop_Specular_Outline.shader" />
+    <None Include="Assets\AliceAssetsSpeech\scripts 1\license_3rdpartynotice.txt" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Templates\TCP2_ShaderTemplate_Terrain.txt" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0\Variants Base\TCP2_Mobile_Specular_Outline.shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\!ToonyColorsPro Readme.txt" />
+    <None Include="Assets\Vuforia\Shaders\RenderVideoBackground.shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0 Generated\Examples\Default\Dissolve.shader" />
+    <None Include="Assets\SmartSheetsAssets\readme_SDK.txt" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0 Generated\Examples\Water\Realistic.shader" />
+    <None Include="Assets\AliceAssetsSpeech\scripts 1\link.xml" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0\Variants Base\TCP2_Mobile_Specular_OutlineBlending.shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0 Generated\Examples\PBS\Outline Behind.shader" />
+    <None Include="Assets\StreamingAssets\Vuforia\DisregardOld7.xml" />
+    <None Include="Assets\StreamingAssets\QCAR\DisregardOld2.xml" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0\TCP2_OutlineOnly.shader" />
+    <None Include="Assets\readme_SDK.txt" />
+    <None Include="Assets\StreamingAssets\Vuforia\Smartsheets.xml" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0\Variants Base\TCP2_Mobile_OutlineBlending.shader" />
+    <None Include="Assets\Plugins\Android\VuforiaMediaSource\AndroidManifest.xml" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders PBS\TCP2_Standard PBS.shader" />
+    <None Include="Assets\StreamingAssets\QCAR\DisregardOld7.xml" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders PBS\TCP2_Standard PBS Outline Blended.shader" />
+    <None Include="Assets\StreamingAssets\Vuforia\Sight_Words.xml" />
+    <None Include="Assets\Plugins\Android\VuforiaMediaSource\build.xml" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders PBS\TCP2_Standard PBS Outline Blended (Specular).shader" />
+    <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0 Generated\Examples\Default\Comic Book.shader" />
+    <None Include="Assets\AliceAssetsSpeech\readme_SDK.txt" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0 Generated\Examples\Water\Lava Cartoon.shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Demo TCP2\TCP2 Demo Assets\Cubemaps\Cubemaps License.txt" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders PBS\TCP2_PBS_ShadowMeta.shader" />
+    <None Include="Assets\SmartSheetsAssets\StreamingAssets\QCAR\StonesAndChips.xml" />
+    <None Include="Assets\SmartSheetsAssets\link.xml" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0\Variants Base\TCP2_Mobile_Outline.shader" />
+    <None Include="Assets\AliceAssetsSpeech\Standard Assets\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Templates\TCP2_ShaderTemplate_Default_CurvedWorld.txt" />
+    <None Include="Assets\AliceAssetsSpeech\StreamingAssets\QCAR\StonesAndChips.xml" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0 Generated\Examples\PBS\Sketch.shader" />
+    <None Include="Assets\Plugins\Android\VuforiaMediaSource\README.txt" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0\Include\TCP2_Outline.shader" />
+    <None Include="Assets\license_3rdpartynotice.txt" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Templates\TCP2_ShaderTemplate_Default.txt" />
+    <None Include="Assets\AliceAssetsSpeech\Standard Assets\ParticleSystems\ParticleSystemsGuidelines.txt" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders PBS\TCP2_PBS_Core.cginc" />
+    <None Include="Assets\Vuforia\Editor\WebcamProfiles\profiles.xml" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0\TCP2_Mobile.shader" />
+    <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Templates\TCP2_ShaderTemplate_Water.txt" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0\Variants Base\TCP2_Desktop_Outline.shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Templates\TCP2_ShaderTemplate_PBS.txt" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0 Generated\Examples\PBS\Hand Painted.shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders PBS\TCP2_Standard PBS Outline.shader" />
+    <None Include="Assets\JMO Assets\!JMO Assets Readme.txt" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0 Generated\Examples\PBS\Blended Outline.shader" />
+    <None Include="Assets\AliceAssetsSpeech\link.xml" />
+    <None Include="Assets\AliceAssetsSpeech\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Demo TCP2\SG Demo Assets\_Misc Assets\TCP2_Demo_3DText.shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0\Include\TCP2_Outline_Include.cginc" />
+    <None Include="Assets\StreamingAssets\QCAR\Launchable_Local_Storage.xml" />
+    <None Include="Assets\AliceAssetsSpeech\Standard Assets\ParticleSystems\Shaders\PriorityParticleAddSoft.shader" />
+    <None Include="Assets\Plugins\VuforiaWrapper.bundle\Contents\Resources\en.lproj\InfoPlist.strings.txt" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0 Generated\Examples\Water\Poison.shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0\Variants Base\TCP2_Desktop_OutlineBlending.shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0\Variants Base\TCP2_Mobile_Specular.shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0\TCP2_OutlineOnly Blended SM2.shader" />
+    <None Include="Assets\SmartSheetsAssets\StreamingAssets\Vuforia\Smartsheets.xml" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders PBS\TCP2_PBS_Main.cginc" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0 Generated\Examples\Water\Water WindWaker.shader" />
+    <None Include="Assets\AliceAssetsSpeech\scripts 1\readme_SDK.txt" />
+    <None Include="Assets\Vuforia\Shaders\ClippingMask.shader" />
+    <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
+    <None Include="Assets\StreamingAssets\QCAR\Smartsheets.xml" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0\Include\TCP2_Outline_Behind.shader" />
+    <None Include="Assets\StreamingAssets\QCAR\Green_Eggs_and_Ham.xml" />
+    <None Include="Assets\StreamingAssets\QCAR\Sight_Words.xml" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0\Variants Base\TCP2_Desktop_Specular.shader" />
+    <None Include="Assets\Plugins\iOS\VuforiaMediaSource\src\VideoPlayerHelper.mm.txt" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0 Generated\Examples\Water\Lava.shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0\TCP2_Desktop.shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0\Include\TCP2_Outline_Behind_SM2.shader" />
+    <None Include="Assets\StreamingAssets\Vuforia\Launchable_Local_Storage.xml" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0 Generated\Examples\Default\Subsurface Scattering.shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0 Generated\Examples\Water\Reflection.shader" />
+    <None Include="Assets\StreamingAssets\Vuforia\DisregardOld2.xml" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Editor\Shader Templates\TCP2_ShaderTemplate_Water_CurvedWorld.txt" />
+    <None Include="Assets\AliceAssetsSpeech\Standard Assets\ParticleSystems\Shaders\PriorityParticleAdd.shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0\TCP2_OutlineOnly SM2.shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders PBS\TCP2_PBS_BRDF.cginc" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0 Generated\Examples\Default\Sketch.shader" />
+    <None Include="Assets\SmartSheetsAssets\license_3rdpartynotice.txt" />
+    <None Include="Assets\Plugins\iOS\VuforiaMediaSource\README.txt" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0\Include\TCP2_Include.cginc" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0 Generated\Examples\Default\HSV.shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders PBS\TCP2_Standard PBS (Specular).shader" />
+    <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0 Generated\Examples\Water\Water WindWaker2.shader" />
+    <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders 2.0\Variants Base\TCP2_Desktop_Specular_OutlineBlending.shader" />
+    <Reference Include="UnityEngine.UI">
+      <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TestRunner">
+      <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Analytics">
+      <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.HoloLens">
+      <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VR">
+      <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
+    </Reference>
+    <Reference Include="Vuforia.UnityExtensions">
+      <HintPath>/Users/admin/Desktop/Alice_Tablet-df0ce0f32177875b5a78adf42021722a9812a32d/GreenEggs/Assets/Vuforia/Scripts/Internal/Vuforia.UnityExtensions.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

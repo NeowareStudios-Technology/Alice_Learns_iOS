@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: 5df87e1624270de4f8c6fe36d3209808
+timeCreated: 1496037223
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Body_2
+    100004: Body_3
+    100006: Book_Open_
+    100008: Capsule_1
+    100010: Car
+    100012: Child
+    100014: Cinema4D_Editor
+    100016: Conductor
+    100018: Cube
+    100020: Cube_1
+    100022: Cube_10
+    100024: Cube_11
+    100026: Cube_12
+    100028: Cube_13
+    100030: Cube_14
+    100032: Cube_15
+    100034: Cube_16
+    100036: Cube_17
+    100038: Cube_1_2
+    100040: Cube_1_3
+    100042: Cube_2
+    100044: Cube_2_2
+    100046: Cube_3
+    100048: Cube_3_2
+    100050: Cube_4
+    100052: Cube_4_2
+    100054: Cube_5
+    100056: Cube_6
+    100058: Cube_7
+    100060: Cube_8
+    100062: Cube_9
+    100064: Disc
+    100066: Dish
+    100068: Egg
+    100070: Egg_1
+    100072: Fork
+    100074: Fox
+    100076: Guy
+    100078: GuyBody
+    100080: GuyHeadAngry
+    100082: Guyshocked
+    100084: Ham
+    100086: Hat
+    100088: Hat_2
+    100090: Hat_3
+    100092: Lady
+    100094: mixamorig_Head
+    100096: mixamorig_Head_2
+    100098: mixamorig_HeadTop_End
+    100100: mixamorig_HeadTop_End_2
+    100102: mixamorig_Hips
+    100104: mixamorig_Hips_2
+    100106: mixamorig_LeftArm
+    100108: mixamorig_LeftArm_2
+    100110: mixamorig_LeftFoot
+    100112: mixamorig_LeftFoot_2
+    100114: mixamorig_LeftForeArm
+    100116: mixamorig_LeftForeArm_2
+    100118: mixamorig_LeftHand
+    100120: mixamorig_LeftHand_2
+    100122: mixamorig_LeftHandIndex1
+    100124: mixamorig_LeftHandIndex1_2
+    100126: mixamorig_LeftHandIndex2
+    100128: mixamorig_LeftHandIndex2_2
+    100130: mixamorig_LeftHandIndex3
+    100132: mixamorig_LeftHandIndex3_2
+    100134: mixamorig_LeftHandIndex4
+    100136: mixamorig_LeftHandIndex4_2
+    100138: mixamorig_LeftHandMiddle1
+    100140: mixamorig_LeftHandMiddle1_2
+    100142: mixamorig_LeftHandMiddle2
+    100144: mixamorig_LeftHandMiddle2_2
+    100146: mixamorig_LeftHandMiddle3
+    100148: mixamorig_LeftHandMiddle3_2
+    100150: mixamorig_LeftHandMiddle4
+    100152: mixamorig_LeftHandMiddle4_2
+    100154: mixamorig_LeftHandPinky1
+    100156: mixamorig_LeftHandPinky1_2
+    100158: mixamorig_LeftHandPinky2
+    100160: mixamorig_LeftHandPinky2_2
+    100162: mixamorig_LeftHandPinky3
+    100164: mixamorig_LeftHandPinky3_2
+    100166: mixamorig_LeftHandPinky4
+    100168: mixamorig_LeftHandPinky4_2
+    100170: mixamorig_LeftHandRing1
+    100172: mixamorig_LeftHandRing1_2
+    100174: mixamorig_LeftHandRing2
+    100176: mixamorig_LeftHandRing2_2
+    100178: mixamorig_LeftHandRing3
+    100180: mixamorig_LeftHandRing3_2
+    100182: mixamorig_LeftHandRing4
+    100184: mixamorig_LeftHandRing4_2
+    100186: mixamorig_LeftHandThumb1
+    100188: mixamorig_LeftHandThumb1_2
+    100190: mixamorig_LeftHandThumb2
+    100192: mixamorig_LeftHandThumb2_2
+    100194: mixamorig_LeftHandThumb3
+    100196: mixamorig_LeftHandThumb3_2
+    100198: mixamorig_LeftHandThumb4
+    100200: mixamorig_LeftHandThumb4_2
+    100202: mixamorig_LeftLeg
+    100204: mixamorig_LeftLeg_2
+    100206: mixamorig_LeftShoulder
+    100208: mixamorig_LeftShoulder_2
+    100210: mixamorig_LeftToe_End
+    100212: mixamorig_LeftToe_End_2
+    100214: mixamorig_LeftToeBase
+    100216: mixamorig_LeftToeBase_2
+    100218: mixamorig_LeftUpLeg
+    100220: mixamorig_LeftUpLeg_2
+    100222: mixamorig_Neck
+    100224: mixamorig_Neck_2
+    100226: mixamorig_RightArm
+    100228: mixamorig_RightArm_2
+    100230: mixamorig_RightFoot
+    100232: mixamorig_RightFoot_2
+    100234: mixamorig_RightForeArm
+    100236: mixamorig_RightForeArm_2
+    100238: mixamorig_RightHand
+    100240: mixamorig_RightHand_2
+    100242: mixamorig_RightHandIndex1
+    100244: mixamorig_RightHandIndex1_2
+    100246: mixamorig_RightHandIndex2
+    100248: mixamorig_RightHandIndex2_2
+    100250: mixamorig_RightHandIndex3
+    100252: mixamorig_RightHandIndex3_2
+    100254: mixamorig_RightHandIndex4
+    100256: mixamorig_RightHandIndex4_2
+    100258: mixamorig_RightHandMiddle1
+    100260: mixamorig_RightHandMiddle1_2
+    100262: mixamorig_RightHandMiddle2
+    100264: mixamorig_RightHandMiddle2_2
+    100266: mixamorig_RightHandMiddle3
+    100268: mixamorig_RightHandMiddle3_2
+    100270: mixamorig_RightHandMiddle4
+    100272: mixamorig_RightHandMiddle4_2
+    100274: mixamorig_RightHandPinky1
+    100276: mixamorig_RightHandPinky1_2
+    100278: mixamorig_RightHandPinky2
+    100280: mixamorig_RightHandPinky2_2
+    100282: mixamorig_RightHandPinky3
+    100284: mixamorig_RightHandPinky3_2
+    100286: mixamorig_RightHandPinky4
+    100288: mixamorig_RightHandPinky4_2
+    100290: mixamorig_RightHandRing1
+    100292: mixamorig_RightHandRing1_2
+    100294: mixamorig_RightHandRing2
+    100296: mixamorig_RightHandRing2_2
+    100298: mixamorig_RightHandRing3
+    100300: mixamorig_RightHandRing3_2
+    100302: mixamorig_RightHandRing4
+    100304: mixamorig_RightHandRing4_2
+    100306: mixamorig_RightHandThumb1
+    100308: mixamorig_RightHandThumb1_2
+    100310: mixamorig_RightHandThumb2
+    100312: mixamorig_RightHandThumb2_2
+    100314: mixamorig_RightHandThumb3
+    100316: mixamorig_RightHandThumb3_2
+    100318: mixamorig_RightHandThumb4
+    100320: mixamorig_RightHandThumb4_2
+    100322: mixamorig_RightLeg
+    100324: mixamorig_RightLeg_2
+    100326: mixamorig_RightShoulder
+    100328: mixamorig_RightShoulder_2
+    100330: mixamorig_RightToe_End
+    100332: mixamorig_RightToe_End_2
+    100334: mixamorig_RightToeBase
+    100336: mixamorig_RightToeBase_2
+    100338: mixamorig_RightUpLeg
+    100340: mixamorig_RightUpLeg_2
+    100342: mixamorig_Spine
+    100344: mixamorig_Spine1
+    100346: mixamorig_Spine1_2
+    100348: mixamorig_Spine2
+    100350: mixamorig_Spine2_2
+    100352: mixamorig_Spine_2
+    100354: Mouse
+    100356: Object
+    100358: //RootNode
+    100360: Page33
+    100362: Pg33
+    100364: Plane
+    100366: Platter
+    100368: Sam
+    100370: SamSmile
+    100372: Track33
+    100374: Train
+    100376: Tree
+    100378: Tree_2
+    100380: Turtle_Neck
+    100382: Turtle_Neck_2
+    400000: Body
+    400002: Body_2
+    400004: Body_3
+    400006: Book_Open_
+    400008: Capsule_1
+    400010: Car
+    400012: Child
+    400014: Cinema4D_Editor
+    400016: Conductor
+    400018: Cube
+    400020: Cube_1
+    400022: Cube_10
+    400024: Cube_11
+    400026: Cube_12
+    400028: Cube_13
+    400030: Cube_14
+    400032: Cube_15
+    400034: Cube_16
+    400036: Cube_17
+    400038: Cube_1_2
+    400040: Cube_1_3
+    400042: Cube_2
+    400044: Cube_2_2
+    400046: Cube_3
+    400048: Cube_3_2
+    400050: Cube_4
+    400052: Cube_4_2
+    400054: Cube_5
+    400056: Cube_6
+    400058: Cube_7
+    400060: Cube_8
+    400062: Cube_9
+    400064: Disc
+    400066: Dish
+    400068: Egg
+    400070: Egg_1
+    400072: Fork
+    400074: Fox
+    400076: Guy
+    400078: GuyBody
+    400080: GuyHeadAngry
+    400082: Guyshocked
+    400084: Ham
+    400086: Hat
+    400088: Hat_2
+    400090: Hat_3
+    400092: Lady
+    400094: mixamorig_Head
+    400096: mixamorig_Head_2
+    400098: mixamorig_HeadTop_End
+    400100: mixamorig_HeadTop_End_2
+    400102: mixamorig_Hips
+    400104: mixamorig_Hips_2
+    400106: mixamorig_LeftArm
+    400108: mixamorig_LeftArm_2
+    400110: mixamorig_LeftFoot
+    400112: mixamorig_LeftFoot_2
+    400114: mixamorig_LeftForeArm
+    400116: mixamorig_LeftForeArm_2
+    400118: mixamorig_LeftHand
+    400120: mixamorig_LeftHand_2
+    400122: mixamorig_LeftHandIndex1
+    400124: mixamorig_LeftHandIndex1_2
+    400126: mixamorig_LeftHandIndex2
+    400128: mixamorig_LeftHandIndex2_2
+    400130: mixamorig_LeftHandIndex3
+    400132: mixamorig_LeftHandIndex3_2
+    400134: mixamorig_LeftHandIndex4
+    400136: mixamorig_LeftHandIndex4_2
+    400138: mixamorig_LeftHandMiddle1
+    400140: mixamorig_LeftHandMiddle1_2
+    400142: mixamorig_LeftHandMiddle2
+    400144: mixamorig_LeftHandMiddle2_2
+    400146: mixamorig_LeftHandMiddle3
+    400148: mixamorig_LeftHandMiddle3_2
+    400150: mixamorig_LeftHandMiddle4
+    400152: mixamorig_LeftHandMiddle4_2
+    400154: mixamorig_LeftHandPinky1
+    400156: mixamorig_LeftHandPinky1_2
+    400158: mixamorig_LeftHandPinky2
+    400160: mixamorig_LeftHandPinky2_2
+    400162: mixamorig_LeftHandPinky3
+    400164: mixamorig_LeftHandPinky3_2
+    400166: mixamorig_LeftHandPinky4
+    400168: mixamorig_LeftHandPinky4_2
+    400170: mixamorig_LeftHandRing1
+    400172: mixamorig_LeftHandRing1_2
+    400174: mixamorig_LeftHandRing2
+    400176: mixamorig_LeftHandRing2_2
+    400178: mixamorig_LeftHandRing3
+    400180: mixamorig_LeftHandRing3_2
+    400182: mixamorig_LeftHandRing4
+    400184: mixamorig_LeftHandRing4_2
+    400186: mixamorig_LeftHandThumb1
+    400188: mixamorig_LeftHandThumb1_2
+    400190: mixamorig_LeftHandThumb2
+    400192: mixamorig_LeftHandThumb2_2
+    400194: mixamorig_LeftHandThumb3
+    400196: mixamorig_LeftHandThumb3_2
+    400198: mixamorig_LeftHandThumb4
+    400200: mixamorig_LeftHandThumb4_2
+    400202: mixamorig_LeftLeg
+    400204: mixamorig_LeftLeg_2
+    400206: mixamorig_LeftShoulder
+    400208: mixamorig_LeftShoulder_2
+    400210: mixamorig_LeftToe_End
+    400212: mixamorig_LeftToe_End_2
+    400214: mixamorig_LeftToeBase
+    400216: mixamorig_LeftToeBase_2
+    400218: mixamorig_LeftUpLeg
+    400220: mixamorig_LeftUpLeg_2
+    400222: mixamorig_Neck
+    400224: mixamorig_Neck_2
+    400226: mixamorig_RightArm
+    400228: mixamorig_RightArm_2
+    400230: mixamorig_RightFoot
+    400232: mixamorig_RightFoot_2
+    400234: mixamorig_RightForeArm
+    400236: mixamorig_RightForeArm_2
+    400238: mixamorig_RightHand
+    400240: mixamorig_RightHand_2
+    400242: mixamorig_RightHandIndex1
+    400244: mixamorig_RightHandIndex1_2
+    400246: mixamorig_RightHandIndex2
+    400248: mixamorig_RightHandIndex2_2
+    400250: mixamorig_RightHandIndex3
+    400252: mixamorig_RightHandIndex3_2
+    400254: mixamorig_RightHandIndex4
+    400256: mixamorig_RightHandIndex4_2
+    400258: mixamorig_RightHandMiddle1
+    400260: mixamorig_RightHandMiddle1_2
+    400262: mixamorig_RightHandMiddle2
+    400264: mixamorig_RightHandMiddle2_2
+    400266: mixamorig_RightHandMiddle3
+    400268: mixamorig_RightHandMiddle3_2
+    400270: mixamorig_RightHandMiddle4
+    400272: mixamorig_RightHandMiddle4_2
+    400274: mixamorig_RightHandPinky1
+    400276: mixamorig_RightHandPinky1_2
+    400278: mixamorig_RightHandPinky2
+    400280: mixamorig_RightHandPinky2_2
+    400282: mixamorig_RightHandPinky3
+    400284: mixamorig_RightHandPinky3_2
+    400286: mixamorig_RightHandPinky4
+    400288: mixamorig_RightHandPinky4_2
+    400290: mixamorig_RightHandRing1
+    400292: mixamorig_RightHandRing1_2
+    400294: mixamorig_RightHandRing2
+    400296: mixamorig_RightHandRing2_2
+    400298: mixamorig_RightHandRing3
+    400300: mixamorig_RightHandRing3_2
+    400302: mixamorig_RightHandRing4
+    400304: mixamorig_RightHandRing4_2
+    400306: mixamorig_RightHandThumb1
+    400308: mixamorig_RightHandThumb1_2
+    400310: mixamorig_RightHandThumb2
+    400312: mixamorig_RightHandThumb2_2
+    400314: mixamorig_RightHandThumb3
+    400316: mixamorig_RightHandThumb3_2
+    400318: mixamorig_RightHandThumb4
+    400320: mixamorig_RightHandThumb4_2
+    400322: mixamorig_RightLeg
+    400324: mixamorig_RightLeg_2
+    400326: mixamorig_RightShoulder
+    400328: mixamorig_RightShoulder_2
+    400330: mixamorig_RightToe_End
+    400332: mixamorig_RightToe_End_2
+    400334: mixamorig_RightToeBase
+    400336: mixamorig_RightToeBase_2
+    400338: mixamorig_RightUpLeg
+    400340: mixamorig_RightUpLeg_2
+    400342: mixamorig_Spine
+    400344: mixamorig_Spine1
+    400346: mixamorig_Spine1_2
+    400348: mixamorig_Spine2
+    400350: mixamorig_Spine2_2
+    400352: mixamorig_Spine_2
+    400354: Mouse
+    400356: Object
+    400358: //RootNode
+    400360: Page33
+    400362: Pg33
+    400364: Plane
+    400366: Platter
+    400368: Sam
+    400370: SamSmile
+    400372: Track33
+    400374: Train
+    400376: Tree
+    400378: Tree_2
+    400380: Turtle_Neck
+    400382: Turtle_Neck_2
+    2300000: Body
+    2300002: Body_2
+    2300004: Body_3
+    2300006: Book_Open_
+    2300008: Capsule_1
+    2300010: Car
+    2300012: Cube
+    2300014: Cube_1
+    2300016: Cube_10
+    2300018: Cube_11
+    2300020: Cube_12
+    2300022: Cube_13
+    2300024: Cube_14
+    2300026: Cube_15
+    2300028: Cube_16
+    2300030: Cube_17
+    2300032: Cube_1_3
+    2300034: Cube_2
+    2300036: Cube_2_2
+    2300038: Cube_3
+    2300040: Cube_4
+    2300042: Cube_4_2
+    2300044: Cube_5
+    2300046: Cube_6
+    2300048: Cube_7
+    2300050: Cube_8
+    2300052: Cube_9
+    2300054: Disc
+    2300056: Dish
+    2300058: Egg
+    2300060: Egg_1
+    2300062: Fork
+    2300064: Fox
+    2300066: GuyHeadAngry
+    2300068: Ham
+    2300070: Hat
+    2300072: Hat_2
+    2300074: Mouse
+    2300076: Object
+    2300078: Pg33
+    2300080: Plane
+    2300082: Train
+    2300084: Tree_2
+    2300086: Turtle_Neck
+    2300088: Turtle_Neck_2
+    3300000: Body
+    3300002: Body_2
+    3300004: Body_3
+    3300006: Book_Open_
+    3300008: Capsule_1
+    3300010: Car
+    3300012: Cube
+    3300014: Cube_1
+    3300016: Cube_10
+    3300018: Cube_11
+    3300020: Cube_12
+    3300022: Cube_13
+    3300024: Cube_14
+    3300026: Cube_15
+    3300028: Cube_16
+    3300030: Cube_17
+    3300032: Cube_1_3
+    3300034: Cube_2
+    3300036: Cube_2_2
+    3300038: Cube_3
+    3300040: Cube_4
+    3300042: Cube_4_2
+    3300044: Cube_5
+    3300046: Cube_6
+    3300048: Cube_7
+    3300050: Cube_8
+    3300052: Cube_9
+    3300054: Disc
+    3300056: Dish
+    3300058: Egg
+    3300060: Egg_1
+    3300062: Fork
+    3300064: Fox
+    3300066: GuyHeadAngry
+    3300068: Ham
+    3300070: Hat
+    3300072: Hat_2
+    3300074: Mouse
+    3300076: Object
+    3300078: Pg33
+    3300080: Plane
+    3300082: Train
+    3300084: Tree_2
+    3300086: Turtle_Neck
+    3300088: Turtle_Neck_2
+    4300000: Train
+    4300002: Cube
+    4300004: Disc
+    4300006: Body
+    4300008: Turtle_Neck
+    4300010: Hat
+    4300012: Body_2
+    4300014: Hat_2
+    4300016: Body_3
+    4300018: Turtle_Neck_2
+    4300020: Object
+    4300022: Cube_17
+    4300024: Cube_16
+    4300026: Cube_15
+    4300028: Cube_14
+    4300030: Cube_13
+    4300032: Cube_12
+    4300034: Cube_11
+    4300036: Cube_10
+    4300038: Cube_9
+    4300040: Cube_8
+    4300042: Cube_7
+    4300044: Cube_6
+    4300046: Cube_5
+    4300048: Cube_4
+    4300050: Cube_3
+    4300052: Cube_2
+    4300054: Cube_1
+    4300056: Cube_2_2
+    4300058: Pg33
+    4300060: Tree_2
+    4300062: Cube_4_2
+    4300064: Cube_1_3
+    4300066: Capsule_1
+    4300068: Car
+    4300070: Fox
+    4300072: Hat_3
+    4300074: GuyHeadAngry
+    4300076: GuyBody
+    4300078: Mouse
+    4300080: Fork
+    4300082: Ham
+    4300084: Egg_1
+    4300086: Egg
+    4300088: Dish
+    4300090: Sam
+    4300092: Plane
+    4300094: Book_Open_
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: GuyBody
+    13700002: Hat_3
+    13700004: Sam
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 3
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C4D Animation Take
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Book_Open_
+        weight: 1
+      - path: Cinema4D_Editor
+        weight: 1
+      - path: Page33
+        weight: 1
+      - path: Page33/Pg33
+        weight: 1
+      - path: Page33/Pg33/Tree
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Capsule_1
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Fox
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/Guy
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/Guy/GuyBody
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/Guy/GuyHeadAngry
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/Guy/Hat_3
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandMiddle1
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandMiddle1/mixamorig_LeftHandMiddle2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandMiddle1/mixamorig_LeftHandMiddle2/mixamorig_LeftHandMiddle3
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandMiddle1/mixamorig_LeftHandMiddle2/mixamorig_LeftHandMiddle3/mixamorig_LeftHandMiddle4
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandPinky1
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandPinky1/mixamorig_LeftHandPinky2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandPinky1/mixamorig_LeftHandPinky2/mixamorig_LeftHandPinky3
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandPinky1/mixamorig_LeftHandPinky2/mixamorig_LeftHandPinky3/mixamorig_LeftHandPinky4
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandRing1
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandRing1/mixamorig_LeftHandRing2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandRing1/mixamorig_LeftHandRing2/mixamorig_LeftHandRing3
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandRing1/mixamorig_LeftHandRing2/mixamorig_LeftHandRing3/mixamorig_LeftHandRing4
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandThumb1
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandThumb1/mixamorig_LeftHandThumb2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandThumb1/mixamorig_LeftHandThumb2/mixamorig_LeftHandThumb3
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandThumb1/mixamorig_LeftHandThumb2/mixamorig_LeftHandThumb3/mixamorig_LeftHandThumb4
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandMiddle1
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandMiddle1/mixamorig_RightHandMiddle2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandMiddle1/mixamorig_RightHandMiddle2/mixamorig_RightHandMiddle3
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandMiddle1/mixamorig_RightHandMiddle2/mixamorig_RightHandMiddle3/mixamorig_RightHandMiddle4
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandPinky1
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandPinky1/mixamorig_RightHandPinky2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandPinky1/mixamorig_RightHandPinky2/mixamorig_RightHandPinky3
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandPinky1/mixamorig_RightHandPinky2/mixamorig_RightHandPinky3/mixamorig_RightHandPinky4
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandRing1
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandRing1/mixamorig_RightHandRing2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandRing1/mixamorig_RightHandRing2/mixamorig_RightHandRing3
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandRing1/mixamorig_RightHandRing2/mixamorig_RightHandRing3/mixamorig_RightHandRing4
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandThumb1
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandThumb1/mixamorig_RightHandThumb2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandThumb1/mixamorig_RightHandThumb2/mixamorig_RightHandThumb3
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Guyshocked/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandThumb1/mixamorig_RightHandThumb2/mixamorig_RightHandThumb3/mixamorig_RightHandThumb4
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/Mouse
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_LeftUpLeg_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_LeftUpLeg_2/mixamorig_LeftLeg_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_LeftUpLeg_2/mixamorig_LeftLeg_2/mixamorig_LeftFoot_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_LeftUpLeg_2/mixamorig_LeftLeg_2/mixamorig_LeftFoot_2/mixamorig_LeftToeBase_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_LeftUpLeg_2/mixamorig_LeftLeg_2/mixamorig_LeftFoot_2/mixamorig_LeftToeBase_2/mixamorig_LeftToe_End_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_RightUpLeg_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_RightUpLeg_2/mixamorig_RightLeg_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_RightUpLeg_2/mixamorig_RightLeg_2/mixamorig_RightFoot_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_RightUpLeg_2/mixamorig_RightLeg_2/mixamorig_RightFoot_2/mixamorig_RightToeBase_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_RightUpLeg_2/mixamorig_RightLeg_2/mixamorig_RightFoot_2/mixamorig_RightToeBase_2/mixamorig_RightToe_End_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandIndex1_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandIndex1_2/mixamorig_LeftHandIndex2_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandIndex1_2/mixamorig_LeftHandIndex2_2/mixamorig_LeftHandIndex3_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandIndex1_2/mixamorig_LeftHandIndex2_2/mixamorig_LeftHandIndex3_2/mixamorig_LeftHandIndex4_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandMiddle1_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandMiddle1_2/mixamorig_LeftHandMiddle2_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandMiddle1_2/mixamorig_LeftHandMiddle2_2/mixamorig_LeftHandMiddle3_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandMiddle1_2/mixamorig_LeftHandMiddle2_2/mixamorig_LeftHandMiddle3_2/mixamorig_LeftHandMiddle4_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandPinky1_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandPinky1_2/mixamorig_LeftHandPinky2_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandPinky1_2/mixamorig_LeftHandPinky2_2/mixamorig_LeftHandPinky3_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandPinky1_2/mixamorig_LeftHandPinky2_2/mixamorig_LeftHandPinky3_2/mixamorig_LeftHandPinky4_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandRing1_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandRing1_2/mixamorig_LeftHandRing2_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandRing1_2/mixamorig_LeftHandRing2_2/mixamorig_LeftHandRing3_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandRing1_2/mixamorig_LeftHandRing2_2/mixamorig_LeftHandRing3_2/mixamorig_LeftHandRing4_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandThumb1_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandThumb1_2/mixamorig_LeftHandThumb2_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandThumb1_2/mixamorig_LeftHandThumb2_2/mixamorig_LeftHandThumb3_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_LeftShoulder_2/mixamorig_LeftArm_2/mixamorig_LeftForeArm_2/mixamorig_LeftHand_2/mixamorig_LeftHandThumb1_2/mixamorig_LeftHandThumb2_2/mixamorig_LeftHandThumb3_2/mixamorig_LeftHandThumb4_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_Neck_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_Neck_2/mixamorig_Head_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_Neck_2/mixamorig_Head_2/mixamorig_HeadTop_End_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandIndex1_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandIndex1_2/mixamorig_RightHandIndex2_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandIndex1_2/mixamorig_RightHandIndex2_2/mixamorig_RightHandIndex3_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandIndex1_2/mixamorig_RightHandIndex2_2/mixamorig_RightHandIndex3_2/mixamorig_RightHandIndex4_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandMiddle1_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandMiddle1_2/mixamorig_RightHandMiddle2_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandMiddle1_2/mixamorig_RightHandMiddle2_2/mixamorig_RightHandMiddle3_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandMiddle1_2/mixamorig_RightHandMiddle2_2/mixamorig_RightHandMiddle3_2/mixamorig_RightHandMiddle4_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandPinky1_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandPinky1_2/mixamorig_RightHandPinky2_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandPinky1_2/mixamorig_RightHandPinky2_2/mixamorig_RightHandPinky3_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandPinky1_2/mixamorig_RightHandPinky2_2/mixamorig_RightHandPinky3_2/mixamorig_RightHandPinky4_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandRing1_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandRing1_2/mixamorig_RightHandRing2_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandRing1_2/mixamorig_RightHandRing2_2/mixamorig_RightHandRing3_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandRing1_2/mixamorig_RightHandRing2_2/mixamorig_RightHandRing3_2/mixamorig_RightHandRing4_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandThumb1_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandThumb1_2/mixamorig_RightHandThumb2_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandThumb1_2/mixamorig_RightHandThumb2_2/mixamorig_RightHandThumb3_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/mixamorig_Hips_2/mixamorig_Spine_2/mixamorig_Spine1_2/mixamorig_Spine2_2/mixamorig_RightShoulder_2/mixamorig_RightArm_2/mixamorig_RightForeArm_2/mixamorig_RightHand_2/mixamorig_RightHandThumb1_2/mixamorig_RightHandThumb2_2/mixamorig_RightHandThumb3_2/mixamorig_RightHandThumb4_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/Platter
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/Platter/Dish
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/Platter/Egg
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/Platter/Egg_1
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/Platter/Fork
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/Platter/Ham
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Car/SamSmile/Sam
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Cube_1_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Cube_1_2/Cube_1_3
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Cube_3_2
+        weight: 1
+      - path: Page33/Pg33/Tree/Tree_2/Cube_3_2/Cube_4_2
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Track33
+        weight: 1
+      - path: Track33/Cube_1
+        weight: 1
+      - path: Track33/Cube_2
+        weight: 1
+      - path: Track33/Cube_2_2
+        weight: 1
+      - path: Track33/Cube_3
+        weight: 1
+      - path: Track33/Cube_4
+        weight: 1
+      - path: Track33/Cube_5
+        weight: 1
+      - path: Track33/Cube_6
+        weight: 1
+      - path: Track33/Cube_7
+        weight: 1
+      - path: Track33/Cube_8
+        weight: 1
+      - path: Track33/Cube_9
+        weight: 1
+      - path: Track33/Cube_10
+        weight: 1
+      - path: Track33/Cube_11
+        weight: 1
+      - path: Track33/Cube_12
+        weight: 1
+      - path: Track33/Cube_13
+        weight: 1
+      - path: Track33/Cube_14
+        weight: 1
+      - path: Track33/Cube_15
+        weight: 1
+      - path: Track33/Cube_16
+        weight: 1
+      - path: Track33/Cube_17
+        weight: 1
+      - path: Train
+        weight: 1
+      - path: Train/Child
+        weight: 1
+      - path: Train/Child/Body
+        weight: 1
+      - path: Train/Child/Disc
+        weight: 1
+      - path: Train/Child/Turtle_Neck
+        weight: 1
+      - path: Train/Conductor
+        weight: 1
+      - path: Train/Conductor/Body_3
+        weight: 1
+      - path: Train/Conductor/Hat_2
+        weight: 1
+      - path: Train/Conductor/Object
+        weight: 1
+      - path: Train/Conductor/Turtle_Neck_2
+        weight: 1
+      - path: Train/Cube
+        weight: 1
+      - path: Train/Lady
+        weight: 1
+      - path: Train/Lady/Body_2
+        weight: 1
+      - path: Train/Lady/Hat
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="BackCover" size="1.000000 1.497006" />
+    <ImageTarget name="InSeam" size="1.000000 1.208333" />
+    <ImageTarget name="eggs_ham" size="1.000000 1.592179" />
+    <ImageTarget name="P62" size="1.000000 1.334566" />
+    <ImageTarget name="P61" size="1.000000 0.772727" />
+    <ImageTarget name="P59" size="1.000000 0.772727" />
+    <ImageTarget name="P57" size="1.000000 0.772727" />
+    <ImageTarget name="P55" size="1.000000 0.772727" />
+    <ImageTarget name="P53" size="1.000000 0.772727" />
+    <ImageTarget name="P51" size="1.000000 0.772727" />
+    <ImageTarget name="P49" size="1.000000 0.772727" />
+    <ImageTarget name="P47" size="1.000000 0.772727" />
+    <ImageTarget name="P45" size="1.000000 0.772727" />
+    <ImageTarget name="P43" size="1.000000 0.772727" />
+    <ImageTarget name="P41" size="1.000000 0.772727" />
+    <ImageTarget name="P39" size="1.000000 0.772727" />
+    <ImageTarget name="P37" size="1.000000 0.772727" />
+    <ImageTarget name="P35" size="1.000000 0.772727" />
+    <ImageTarget name="P33" size="1.000000 0.772727" />
+    <ImageTarget name="P31" size="1.000000 0.772727" />
+    <ImageTarget name="P29" size="1.000000 0.772727" />
+    <ImageTarget name="P27" size="1.000000 0.772727" />
+    <ImageTarget name="P25" size="1.000000 0.772727" />
+    <ImageTarget name="P23" size="1.000000 0.772727" />
+    <ImageTarget name="P2_3" size="1.000000 1.290614" />
+    <ImageTarget name="Cover" size="1.000000 1.420561" />
+    <ImageTarget name="P20_21" size="1.000000 0.772727" />
+    <ImageTarget name="P18_19" size="1.000000 0.772727" />
+    <ImageTarget name="P16_17" size="1.000000 0.772727" />
+    <ImageTarget name="P14_15" size="1.000000 0.772727" />
+    <ImageTarget name="P12-13" size="1.000000 0.772727" />
+    <ImageTarget name="P10_11" size="1.000000 0.772727" />
+    <ImageTarget name="P8_9" size="1.000000 0.772727" />
+    <ImageTarget name="P6_7" size="1.000000 0.772727" />
+    <ImageTarget name="P4_5" size="1.000000 0.772727" />
+  </Tracking>
+</QCARConfig>

@@ -1,2 +1,2 @@
-# Alice_Learns_iOS
-iOS version of the Alice Learns application
+# GreenEggs-Ham
+Dr. Seuss Augmented Reality Book Build, Green Eggs &amp; Ham
