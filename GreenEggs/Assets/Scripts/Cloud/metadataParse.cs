@@ -466,7 +466,7 @@ public class metadataParse : MonoBehaviour {
 		UnityWebRequest www = UnityWebRequest.GetAssetBundle(url);
 		yield return www.Send();
  
-        if(www.isError) {
+        if(www.isNetworkError) {
             Debug.Log(www.error);
         }
         else {
